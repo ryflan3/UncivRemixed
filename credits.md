@@ -93,3 +93,5 @@ grand bazaar by Lars Meiertoberens from <a href="https://thenounproject.com/brow
 Canoe by Yoyon Pujiyono from <a href="https://thenounproject.com/browse/icons/term/canoe/" target="_blank" title="Canoe Icons">Noun Project</a> (CC BY 3.0)
 tax by Adrien Coquet from <a href="https://thenounproject.com/browse/icons/term/tax/" target="_blank" title="tax Icons">Noun Project</a> (CC BY 3.0)
 Parthenon by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/term/parthenon/" target="_blank" title="Parthenon Icons">Noun Project</a> (CC BY 3.0)
+Burj Khalifa by Владимир Козачок from <a href="https://thenounproject.com/browse/icons/term/burj-khalifa/" target="_blank" title="Burj Khalifa Icons">Noun Project</a> (CC BY 3.0)
+
