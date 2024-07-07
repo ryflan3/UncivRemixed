@@ -91,3 +91,4 @@ grand bazaar by Lars Meiertoberens from <a href="https://thenounproject.com/brow
 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
 Canoe by Yoyon Pujiyono from <a href="https://thenounproject.com/browse/icons/term/canoe/" target="_blank" title="Canoe Icons">Noun Project</a> (CC BY 3.0)
+tax by Adrien Coquet from <a href="https://thenounproject.com/browse/icons/term/tax/" target="_blank" title="tax Icons">Noun Project</a> (CC BY 3.0)
