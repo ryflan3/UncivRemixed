@@ -83,4 +83,37 @@
 			}
 		]
 	},
+	{
+		"columnNumber": 13,
+		"era": "Atomic era",
+		"techCost": 5100,
+		"buildingCost": 500,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Pharmaceuticals",
+				"row": 2,
+				"prerequisites": ["Plastics","Refrigeration","Urbanization"],
+				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero"
+			},
+			{
+				"name": "Atomic Theory",
+				"row": 4,
+				"prerequisites": ["Plastics","Electronics"],
+				"quote": "'The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.' - Albert Einstein"
+			},
+			{
+				"name": "Radar",
+				"row": 6,
+				"prerequisites": ["Ballistics","Electronics"],
+				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift"
+			},
+			{
+				"name": "Combined Arms",
+				"row": 8,
+				"prerequisites": ["Ballistics","Combustion"],
+				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
+			}
+		]
+	},
 ]
