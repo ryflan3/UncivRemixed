@@ -95,4 +95,5 @@ Canoe by Yoyon Pujiyono from <a href="https://thenounproject.com/browse/icons/te
 tax by Adrien Coquet from <a href="https://thenounproject.com/browse/icons/term/tax/" target="_blank" title="tax Icons">Noun Project</a> (CC BY 3.0)
 Parthenon by Dimitri Lupo from <a href="https://thenounproject.com/browse/icons/term/parthenon/" target="_blank" title="Parthenon Icons">Noun Project</a> (CC BY 3.0)
 Burj Khalifa by Владимир Козачок from <a href="https://thenounproject.com/browse/icons/term/burj-khalifa/" target="_blank" title="Burj Khalifa Icons">Noun Project</a> (CC BY 3.0)
+Dam by Satawat Anukul from <a href="https://thenounproject.com/browse/icons/term/dam/" target="_blank" title="Dam Icons">Noun Project</a> (CC BY 3.0)
 
