@@ -803,5 +803,18 @@
 		"percentStatBonus": {"gold": 30},
 		"requiredTech": "Currency"
 	},
+	{
+        "name": "Panama Canal",
+        "gold": 3,
+        "culture": 1,
+        "greatPersonPoints": {"Great Merchant": 2},
+        "isWonder": true,
+        "uniques": [
+            "Must be next to [Coast]",
+            "Free [Great Merchant] appears",
+            "[+4 Gold] from [Sea Trade Route (Gold)] tiles [in this city]"
+        ],
+        "requiredTech": "Geoengineering"
+    },
 
 ]
