@@ -1,0 +1,108 @@
+[
+	{
+        "name": "Atheism",
+        "type": "Pantheon",
+        "uniques": ["[-500 Faith] [in all cities]","[+1 Science] from every [Faith Building] <during the [Ancient era]>","[+2 Science] from every [Faith Building] <during the [Classical era]>","[+2 Science] from every [Faith Building] <during the [Medieval era]>","[+2 Science] from every [Faith Building] <during the [Renaissance era]>","[+3 Science] from every [Faith Building] <during the [Industrial era]>","[+4 Science] from every [Faith Building] <during the [Modern era]>"]
+    },
+{
+        "name": "Earth Mother",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from every [Salt]","[+1 Faith] from every [Copper]","[+1 Faith] from every [Iron]"]
+    },
+	{
+        "name": "God-King",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Culture, +1 Gold, +1 Science, +1 Production] from every [Palace]"]
+    },
+	{
+        "name": "Sun God",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food] from every [Bananas]","[+1 Food] from every [Citrus]","[+1 Food] from every [Wheat]"]
+    },
+	{
+        "name": "Tears of the Gods",
+        "type": "Pantheon",
+        "uniques": ["[+2 Faith] from every [Gems]","[+2 Faith] from every [Pearls]"]
+    },
+	{
+        "name": "City Patron Godess",
+        "type": "Pantheon",
+        "uniques": [
+            "[+15]% Production when constructing [All] buildings [in this city] <before the [Renaissance era]>"
+        ]
+    },
+	  {
+	"name": "God of the Forge",
+        "type": "Pantheon",
+        "uniques":[
+            "[+1 Production, +1 Faith] from every [Strategic resource]"
+        ]
+},
+{
+        "name": "Lady of the Reeds and Marshes",
+        "type": "Pantheon",
+        "uniques": [
+            "[+2 Production] from every [Marsh]",
+            "[+2 Production] from every [Oasis]",
+            "[+1 Production] from every [Flood plains]"
+        ]
+    },
+{
+        "name": "River Godess",
+        "type": "Pantheon",
+        "uniques": [
+            "[+2 Happiness] in cities on [River] tiles"
+        ]
+    },
+ {
+        "name": "Religious Settlements",
+        "type": "Pantheon",
+        "uniques": [
+            "[+25]% Production when constructing [Settler] units [in this city]",
+            "[-15]% Culture cost of natural border growth [in this city]"
+        ]
+    },
+{
+        "name": "Zen meditation",
+        "type": "Follower",
+        "uniques": [
+            "[+1 Happiness] [in cities following this religion] <in cities with at least [1] [Specialists]>"
+        ]
+    },
+{
+        "name": "Cross-Cultural Dialogue",
+        "type": "Founder",
+        "uniques": [
+            "[+1 Science] from every [5] global followers [in all cities]"
+        ]
+    },
+{
+        "name": "Lay ministery",
+        "type": "Founder",
+        "uniques": [
+            "[+1 Faith] from every [Holy site]",
+            "[+1 Culture] from every [Landmark]"
+        ]
+    },
+{
+        "name": "Stewardship",
+        "type": "Founder",
+        "uniques": [
+            "[+1 Science] from every [Academy]",
+            "[+1 Gold] from every [Customs house]"
+        ]
+    },
+{
+        "name": "Religious Colonization",
+        "type": "Enhancer",
+        "uniques": [
+            "[+50]% Natural religion spread [in all cities connected to capital]"
+        ]
+    },
+{
+        "name": "Tritons Strength",
+        "type": "Enhancer",
+        "uniques": ["[+20]% Strength <for [Water] units>"]
+    },
+
+]

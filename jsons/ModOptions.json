@@ -1,0 +1,5 @@
+{
+	 "nationsToRemove":["Japan","Denmark","Sweden"],
+	 "unitsToRemove": ["Bowman","Tercio"]
+	 "constants":{"cityWorkRange":4}
+}

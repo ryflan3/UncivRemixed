@@ -1,0 +1,1593 @@
+[
+  {
+      "name": "Tokugawa Ieyasu",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 7,
+      "food": 6,
+      "gold": 5,
+      "happiness": 6,
+      "production": 8,
+      "science": 4,
+      // Behavior focused personalities
+      "military": 9,
+      "aggressive": 8,
+      "declareWar": 7,
+      "commerce": 5,
+      "diplomacy": 4,
+      "loyal": 9,
+      "expansion": 5,
+      "priorities": {
+          "Tradition": 10,
+          "Liberty": 3,
+          "Honor": 9,
+          "Commerce": 5,
+          "Patronage": 4,
+          "Piety": 8,
+          "Rationalism": 4,
+          "Exploration": 3,
+          "Aesthetics": 7,
+          "Freedom": 3,
+          "Autocracy": 8,
+          "Order": 8,
+          "National Defense": 9
+      }
+},
+  {
+      "name": "King Leonidas",
+      // Stats focused personalities
+      "culture": 5,
+      "faith": 4,
+      "food": 3,
+      "gold": 2,
+      "happiness": 6,
+      "production": 8,
+      "science": 3,
+      // Behavior focused personalities
+      "military": 10,
+      "aggressive": 9,
+      "declareWar": 8,
+      "commerce": 2,
+      "diplomacy": 3,
+      "loyal": 10,
+      "expansion": 4,
+     "priorities": {
+          "Tradition": 5,
+          "Liberty": 3,
+          "Honor": 10,
+          "Commerce": 2,
+          "Patronage": 2,
+          "Piety": 4,
+          "Rationalism": 3,
+          "Exploration": 2,
+          "Aesthetics": 4,
+          "Freedom": 3,
+          "Autocracy": 10,
+          "Order": 7,
+          "National Defense": 10
+      }
+},
+  {
+      "name": "Rodrigo Borgia",
+      // Stats focused personalities
+      "culture": 7,
+      "faith": 9,
+      "food": 5,
+      "gold": 8,
+      "happiness": 6,
+      "production": 6,
+      "science": 5,
+      // Behavior focused personalities
+      "military": 6,
+      "aggressive": 7,
+      "declareWar": 6,
+      "commerce": 8,
+      "diplomacy": 8,
+      "loyal": 5,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 4,
+          "Honor": 5,
+          "Commerce": 9,
+          "Patronage": 9,
+          "Piety": 9,
+          "Rationalism": 5,
+          "Exploration": 3,
+          "Aesthetics": 7,
+          "Freedom": 4,
+          "Autocracy": 6,
+          "Order": 6,
+          "National Defense": 5
+      }
+},
+  {
+      "name": "Augustus Caesar",
+      // Stats focused personalities
+      "culture": 7,
+      "faith": 5,
+      "food": 6,
+      "gold": 8,
+      "happiness": 7,
+      "production": 9,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 9,
+      "aggressive": 8,
+      "declareWar": 7,
+      "commerce": 8,
+      "diplomacy": 7,
+      "loyal": 9,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 6,
+          "Honor": 9,
+          "Commerce": 8,
+          "Patronage": 7,
+          "Piety": 5,
+          "Rationalism": 7,
+          "Exploration": 6,
+          "Aesthetics": 7,
+          "Freedom": 5,
+          "Autocracy": 8,
+          "Order": 9,
+          "National Defense": 9
+      }
+},
+  {
+      "name": "Zheng Yi",
+      // Stats focused personalities
+      "culture": 5,
+      "faith": 2,
+      "food": 4,
+      "gold": 9,
+      "happiness": 6,
+      "production": 6,
+      "science": 5,
+      // Behavior focused personalities
+      "military": 8,
+      "aggressive": 9,
+      "declareWar": 8,
+      "commerce": 9,
+      "diplomacy": 4,
+      "loyal": 4,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 6,
+          "Honor": 8,
+          "Commerce": 9,
+          "Patronage": 4,
+          "Piety": 2,
+          "Rationalism": 5,
+          "Exploration": 10,
+          "Aesthetics": 5,
+          "Freedom": 7,
+          "Autocracy": 8,
+          "Order": 6,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Ragnar Lothbrok",
+      // Stats focused personalities
+      "culture": 6,
+      "faith": 4,
+      "food": 5,
+      "gold": 7,
+      "happiness": 6,
+      "production": 7,
+      "science": 5,
+      // Behavior focused personalities
+      "military": 10,
+      "aggressive": 10,
+      "declareWar": 9,
+      "commerce": 7,
+      "diplomacy": 5,
+      "loyal": 7,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 6,
+          "Honor": 10,
+          "Commerce": 7,
+          "Patronage": 5,
+          "Piety": 4,
+          "Rationalism": 5,
+          "Exploration": 10,
+          "Aesthetics": 6,
+          "Freedom": 6,
+          "Autocracy": 9,
+          "Order": 7,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Alexander",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 4,
+      "food": 6,
+      "gold": 7,
+      "happiness": 7,
+      "production": 7,
+      "science": 8,
+      // Behavior focused personalities
+      "military": 9,
+      "aggressive": 8,
+      "declareWar": 7,
+      "commerce": 7,
+      "diplomacy": 9,
+      "loyal": 7,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 7,
+          "Honor": 8,
+          "Commerce": 7,
+          "Patronage": 9,
+          "Piety": 4,
+          "Rationalism": 8,
+          "Exploration": 7,
+          "Aesthetics": 8,
+          "Freedom": 6,
+          "Autocracy": 8,
+          "Order": 7,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Solomon",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 10,
+      "food": 6,
+      "gold": 7,
+      "happiness": 7,
+      "production": 6,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 5,
+      "aggressive": 4,
+      "declareWar": 4,
+      "commerce": 8,
+      "diplomacy": 9,
+      "loyal": 8,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 5,
+          "Honor": 5,
+          "Commerce": 8,
+          "Patronage": 9,
+          "Piety": 10,
+          "Rationalism": 7,
+          "Exploration": 4,
+          "Aesthetics": 8,
+          "Freedom": 6,
+          "Autocracy": 4,
+          "Order": 6,
+          "National Defense": 5
+      }
+},
+  {
+      "name": "William Wallace",
+      // Stats focused personalities
+      "culture": 7,
+      "faith": 6,
+      "food": 5,
+      "gold": 5,
+      "happiness": 6,
+      "production": 7,
+      "science": 5,
+      // Behavior focused personalities
+      "military": 9,
+      "aggressive": 8,
+      "declareWar": 7,
+      "commerce": 5,
+      "diplomacy": 6,
+      "loyal": 10,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 8,
+          "Honor": 10,
+          "Commerce": 5,
+          "Patronage": 6,
+          "Piety": 6,
+          "Rationalism": 5,
+          "Exploration": 4,
+          "Aesthetics": 7,
+          "Freedom": 10,
+          "Autocracy": 7,
+          "Order": 7,
+          "National Defense": 9
+      }
+},
+  {
+      "name": "George Washington",
+      // Stats focused personalities
+      "culture": 7,
+      "faith": 5,
+      "food": 8,
+      "gold": 7,
+      "happiness": 7,
+      "production": 8,
+      "science": 9,
+      // Behavior focused personalities
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 6,
+      "commerce": 7,
+      "diplomacy": 8,
+      "loyal": 9,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 10,
+          "Honor": 8,
+          "Commerce": 7,
+          "Patronage": 8,
+          "Piety": 5,
+          "Rationalism": 9,
+          "Exploration": 7,
+          "Aesthetics": 7,
+          "Freedom": 10,
+          "Autocracy": 5,
+          "Order": 8,
+          "National Defense": 8
+      }
+},
+  {
+      "name": "Nebuchadnezzar II",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 7,
+      "food": 7,
+      "gold": 6,
+      "happiness": 7,
+      "production": 8,
+      "science": 9,
+      // Behavior focused personalities
+      "military": 7,
+      "aggressive": 6,
+      "declareWar": 5,
+      "commerce": 6,
+      "diplomacy": 7,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 6,
+          "Honor": 6,
+          "Commerce": 6,
+          "Patronage": 7,
+          "Piety": 7,
+          "Rationalism": 9,
+          "Exploration": 5,
+          "Aesthetics": 8,
+          "Freedom": 6,
+          "Autocracy": 7,
+          "Order": 8,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Hassan-i Sabbah",
+      // Stats focused personalities
+      "culture": 7,
+      "faith": 8,
+      "food": 4,
+      "gold": 5,
+      "happiness": 6,
+      "production": 6,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 9,
+      "aggressive": 8,
+      "declareWar": 7,
+      "commerce": 5,
+      "diplomacy": 6,
+      "loyal": 9,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 4,
+          "Honor": 9,
+          "Commerce": 5,
+          "Patronage": 6,
+          "Piety": 8,
+          "Rationalism": 7,
+          "Exploration": 4,
+          "Aesthetics": 7,
+          "Freedom": 6,
+          "Autocracy": 9,
+          "Order": 7,
+          "National Defense": 8
+      }
+},
+  {
+      "name": "Shaka",
+      // Stats focused personalities
+      "culture": 6,
+      "faith": 4,
+      "food": 7,
+      "gold": 5,
+      "happiness": 6,
+      "production": 8,
+      "science": 5,
+      // Behavior focused personalities
+      "military": 10,
+      "aggressive": 9,
+      "declareWar": 8,
+      "commerce": 5,
+      "diplomacy": 4,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 6,
+          "Liberty": 7,
+          "Honor": 10,
+          "Commerce": 5,
+          "Patronage": 4,
+          "Piety": 4,
+          "Rationalism": 5,
+          "Exploration": 4,
+          "Aesthetics": 6,
+          "Freedom": 6,
+          "Autocracy": 10,
+          "Order": 8,
+          "National Defense": 9
+      }
+},
+  {
+      "name": "Elizabeth",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 6,
+      "food": 7,
+      "gold": 8,
+      "happiness": 7,
+      "production": 8,
+      "science": 9,
+      // Behavior focused personalities
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 6,
+      "commerce": 9,
+      "diplomacy": 8,
+      "loyal": 8,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 8,
+          "Honor": 7,
+          "Commerce": 9,
+          "Patronage": 7,
+          "Piety": 6,
+          "Rationalism": 9,
+          "Exploration": 10,
+          "Aesthetics": 8,
+          "Freedom": 8,
+          "Autocracy": 6,
+          "Order": 8,
+          "National Defense": 8
+      }
+},
+  {
+      "name": "Isabella",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 10,
+      "food": 6,
+      "gold": 7,
+      "happiness": 7,
+      "production": 7,
+      "science": 6,
+      // Behavior focused personalities
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 7,
+      "commerce": 8,
+      "diplomacy": 7,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 7,
+          "Honor": 8,
+          "Commerce": 8,
+          "Patronage": 7,
+          "Piety": 10,
+          "Rationalism": 6,
+          "Exploration": 9,
+          "Aesthetics": 8,
+          "Freedom": 7,
+          "Autocracy": 8,
+          "Order": 7,
+          "National Defense": 8
+      }
+},
+  {
+      "name": "Napoleon",
+      // Stats focused personalities
+      "culture": 7,
+      "faith": 4,
+      "food": 7,
+      "gold": 6,
+      "happiness": 6,
+      "production": 8,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 10,
+      "aggressive": 9,
+      "declareWar": 8,
+      "commerce": 7,
+      "diplomacy": 6,
+      "loyal": 5,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 7,
+          "Honor": 10,
+          "Commerce": 7,
+          "Patronage": 6,
+          "Piety": 4,
+          "Rationalism": 7,
+          "Exploration": 6,
+          "Aesthetics": 7,
+          "Freedom": 6,
+          "Autocracy": 10,
+          "Order": 8,
+          "National Defense": 8
+      }
+},
+  {
+      "name": "William of Orange",
+      // Stats focused personalities
+      "culture": 7,
+      "faith": 6,
+      "food": 7,
+      "gold": 8,
+      "happiness": 7,
+      "production": 7,
+      "science": 8,
+      // Behavior focused personalities
+      "military": 6,
+      "aggressive": 5,
+      "declareWar": 5,
+      "commerce": 9,
+      "diplomacy": 8,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 8,
+          "Honor": 6,
+          "Commerce": 9,
+          "Patronage": 8,
+          "Piety": 6,
+          "Rationalism": 8,
+          "Exploration": 7,
+          "Aesthetics": 7,
+          "Freedom": 8,
+          "Autocracy": 5,
+          "Order": 7,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Hiawatha",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 7,
+      "food": 8,
+      "gold": 6,
+      "happiness": 7,
+      "production": 7,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 6,
+      "aggressive": 5,
+      "declareWar": 5,
+      "commerce": 6,
+      "diplomacy": 8,
+      "loyal": 9,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 9,
+          "Honor": 6,
+          "Commerce": 6,
+          "Patronage": 8,
+          "Piety": 7,
+          "Rationalism": 7,
+          "Exploration": 6,
+          "Aesthetics": 8,
+          "Freedom": 9,
+          "Autocracy": 5,
+          "Order": 7,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Ramesses II",
+      // Stats focused personalities
+      "culture": 9,
+      "faith": 8,
+      "food": 7,
+      "gold": 7,
+      "happiness": 7,
+      "production": 8,
+      "science": 6,
+      // Behavior focused personalities
+      "military": 7,
+      "aggressive": 6,
+      "declareWar": 5,
+      "commerce": 7,
+      "diplomacy": 8,
+      "loyal": 8,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 10,
+          "Liberty": 6,
+          "Honor": 7,
+          "Commerce": 7,
+          "Patronage": 8,
+          "Piety": 9,
+          "Rationalism": 6,
+          "Exploration": 5,
+          "Aesthetics": 9,
+          "Freedom": 7,
+          "Autocracy": 7,
+          "Order": 8,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Darius I",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 6,
+      "food": 7,
+      "gold": 9,
+      "happiness": 7,
+      "production": 8,
+      "science": 8,
+      // Behavior focused personalities
+      "military": 7,
+      "aggressive": 6,
+      "declareWar": 6,
+      "commerce": 9,
+      "diplomacy": 8,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 7,
+          "Honor": 7,
+          "Commerce": 9,
+          "Patronage": 8,
+          "Piety": 6,
+          "Rationalism": 8,
+          "Exploration": 6,
+          "Aesthetics": 8,
+          "Freedom": 7,
+          "Autocracy": 6,
+          "Order": 8,
+          "National Defense": 7
+      }
+}, 
+  {
+      "name": "Genghis Khan",
+      // Stats focused personalities
+      "culture": 5,
+      "faith": 3,
+      "food": 7,
+      "gold": 6,
+      "happiness": 6,
+      "production": 8,
+      "science": 6,
+      // Behavior focused personalities
+      "military": 10,
+      "aggressive": 10,
+      "declareWar": 9,
+      "commerce": 7,
+      "diplomacy": 4,
+      "loyal": 5,
+      "expansion": 10,
+
+      "priorities": {
+          "Tradition": 5,
+          "Liberty": 7,
+          "Honor": 10,
+          "Commerce": 7,
+          "Patronage": 4,
+          "Piety": 3,
+          "Rationalism": 6,
+          "Exploration": 7,
+          "Aesthetics": 5,
+          "Freedom": 7,
+          "Autocracy": 10,
+          "Order": 8,
+          "National Defense": 8
+      }
+},
+  {
+      "name": "Attila the Hun",
+      // Stats focused personalities
+      "culture": 4,
+      "faith": 3,
+      "food": 7,
+      "gold": 5,
+      "happiness": 5,
+      "production": 7,
+      "science": 5,
+      // Behavior focused personalities
+      "military": 10,
+      "aggressive": 10,
+      "declareWar": 10,
+      "commerce": 5,
+      "diplomacy": 3,
+      "loyal": 3,
+      "expansion": 9,
+
+      "priorities": {
+          "Tradition": 4,
+          "Liberty": 6,
+          "Honor": 10,
+          "Commerce": 5,
+          "Patronage": 3,
+          "Piety": 3,
+          "Rationalism": 5,
+          "Exploration": 6,
+          "Aesthetics": 4,
+          "Freedom": 6,
+          "Autocracy": 10,
+          "Order": 7,
+          "National Defense": 8
+      }
+},
+  {
+      "name": "Simón Bolívar",
+      // Stats focused personalities
+      "culture": 7,
+      "faith": 4,
+      "food": 7,
+      "gold": 6,
+      "happiness": 7,
+      "production": 8,
+      "science": 6,
+      // Behavior focused personalities
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 7,
+      "commerce": 6,
+      "diplomacy": 8,
+      "loyal": 9,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 9,
+          "Honor": 8,
+          "Commerce": 6,
+          "Patronage": 8,
+          "Piety": 4,
+          "Rationalism": 6,
+          "Exploration": 5,
+          "Aesthetics": 7,
+          "Freedom": 9,
+          "Autocracy": 6,
+          "Order": 8,
+          "National Defense": 8
+      }
+}, 
+  {
+      "name": "Pathkiller",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 6,
+      "food": 7,
+      "gold": 6,
+      "happiness": 7,
+      "production": 7,
+      "science": 6,
+      // Behavior focused personalities
+      "military": 7,
+      "aggressive": 5,
+      "declareWar": 5,
+      "commerce": 6,
+      "diplomacy": 8,
+      "loyal": 9,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 8,
+          "Honor": 6,
+          "Commerce": 6,
+          "Patronage": 8,
+          "Piety": 6,
+          "Rationalism": 6,
+          "Exploration": 5,
+          "Aesthetics": 8,
+          "Freedom": 9,
+          "Autocracy": 5,
+          "Order": 7,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Maria Theresa",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 7,
+      "food": 7,
+      "gold": 8,
+      "happiness": 8,
+      "production": 7,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 6,
+      "aggressive": 4,
+      "declareWar": 4,
+      "commerce": 8,
+      "diplomacy": 9,
+      "loyal": 8,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 7,
+          "Honor": 5,
+          "Commerce": 8,
+          "Patronage": 10,
+          "Piety": 7,
+          "Rationalism": 7,
+          "Exploration": 4,
+          "Aesthetics": 8,
+          "Freedom": 7,
+          "Autocracy": 6,
+          "Order": 8,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Hugues de Payens",
+      // Stats focused personalities
+      "culture": 6,
+      "faith": 9,
+      "food": 5,
+      "gold": 7,
+      "happiness": 6,
+      "production": 8,
+      "science": 6,
+      // Behavior focused personalities
+      "military": 9,
+      "aggressive": 8,
+      "declareWar": 7,
+      "commerce": 7,
+      "diplomacy": 7,
+      "loyal": 8,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 6,
+          "Honor": 9,
+          "Commerce": 7,
+          "Patronage": 7,
+          "Piety": 9,
+          "Rationalism": 6,
+          "Exploration": 5,
+          "Aesthetics": 6,
+          "Freedom": 6,
+          "Autocracy": 9,
+          "Order": 8,
+          "National Defense": 9
+      }
+},
+  {
+      "name": "Shah Abbas the Great",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 9,
+      "food": 7,
+      "gold": 8,
+      "happiness": 7,
+      "production": 8,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 6,
+      "commerce": 8,
+      "diplomacy": 7,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 7,
+          "Honor": 7,
+          "Commerce": 8,
+          "Patronage": 7,
+          "Piety": 9,
+          "Rationalism": 7,
+          "Exploration": 5,
+          "Aesthetics": 8,
+          "Freedom": 7,
+          "Autocracy": 7,
+          "Order": 8,
+          "National Defense": 8
+      }
+},
+  {
+      "name": "Enrico Dandolo",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 6,
+      "food": 6,
+      "gold": 10,
+      "happiness": 7,
+      "production": 7,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 6,
+      "aggressive": 5,
+      "declareWar": 5,
+      "commerce": 10,
+      "diplomacy": 9,
+      "loyal": 7,
+      "expansion": 5,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 6,
+          "Honor": 5,
+          "Commerce": 10,
+          "Patronage": 9,
+          "Piety": 6,
+          "Rationalism": 7,
+          "Exploration": 9,
+          "Aesthetics": 8,
+          "Freedom": 7,
+          "Autocracy": 5,
+          "Order": 7,
+          "National Defense": 6
+      }
+},
+{
+      "name": "Pacal",
+      // Stats focused personalities
+      "culture": 9,
+      "faith": 8,
+      "food": 7,
+      "gold": 6,
+      "happiness": 7,
+      "production": 8,
+      "science": 9,
+      // Behavior focused personalities
+      "military": 6,
+      "aggressive": 5,
+      "declareWar": 4,
+      "commerce": 7,
+      "diplomacy": 8,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 7,
+          "Honor": 6,
+          "Commerce": 7,
+          "Patronage": 8,
+          "Piety": 8,
+          "Rationalism": 9,
+          "Exploration": 6,
+          "Aesthetics": 9,
+          "Freedom": 7,
+          "Autocracy": 5,
+          "Order": 8,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Montezuma I",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 7,
+      "food": 7,
+      "gold": 6,
+      "happiness": 6,
+      "production": 7,
+      "science": 6,
+      // Behavior focused personalities
+      "military": 9,
+      "aggressive": 9,
+      "declareWar": 8,
+      "commerce": 6,
+      "diplomacy": 5,
+      "loyal": 7,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 6,
+          "Honor": 9,
+          "Commerce": 6,
+          "Patronage": 5,
+          "Piety": 7,
+          "Rationalism": 6,
+          "Exploration": 5,
+          "Aesthetics": 8,
+          "Freedom": 6,
+          "Autocracy": 9,
+          "Order": 8,
+          "National Defense": 8
+      }
+},
+{
+      "name": "Theodora",
+      // Stats focused personalities
+      "culture": 9,
+      "faith": 10,
+      "food": 7,
+      "gold": 7,
+      "happiness": 8,
+      "production": 8,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 7,
+      "aggressive": 6,
+      "declareWar": 6,
+      "commerce": 7,
+      "diplomacy": 8,
+      "loyal": 9,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 6,
+          "Honor": 7,
+          "Commerce": 7,
+          "Patronage": 8,
+          "Piety": 10,
+          "Rationalism": 7,
+          "Exploration": 6,
+          "Aesthetics": 9,
+          "Freedom": 7,
+          "Autocracy": 6,
+          "Order": 8,
+          "National Defense": 8
+      }
+},
+  {
+      "name": "Dido",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 5,
+      "food": 7,
+      "gold": 9,
+      "happiness": 7,
+      "production": 7,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 7,
+      "aggressive": 6,
+      "declareWar": 5,
+      "commerce": 10,
+      "diplomacy": 8,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 7,
+          "Honor": 6,
+          "Commerce": 10,
+          "Patronage": 8,
+          "Piety": 5,
+          "Rationalism": 7,
+          "Exploration": 10,
+          "Aesthetics": 8,
+          "Freedom": 7,
+          "Autocracy": 6,
+          "Order": 8,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Otto von Bismarck",
+      // Stats focused personalities
+      "culture": 7,
+      "faith": 5,
+      "food": 7,
+      "gold": 8,
+      "happiness": 7,
+      "production": 9,
+      "science": 8,
+      // Behavior focused personalities
+      "military": 9,
+      "aggressive": 7,
+      "declareWar": 6,
+      "commerce": 8,
+      "diplomacy": 7,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 6,
+          "Honor": 8,
+          "Commerce": 8,
+          "Patronage": 7,
+          "Piety": 5,
+          "Rationalism": 8,
+          "Exploration": 6,
+          "Aesthetics": 7,
+          "Freedom": 7,
+          "Autocracy": 8,
+          "Order": 9,
+          "National Defense": 8
+      }
+},
+  {
+      "name": "Catherine",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 6,
+      "food": 8,
+      "gold": 7,
+      "happiness": 7,
+      "production": 9,
+      "science": 8,
+      // Behavior focused personalities
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 7,
+      "commerce": 7,
+      "diplomacy": 7,
+      "loyal": 9,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 7,
+          "Honor": 8,
+          "Commerce": 7,
+          "Patronage": 6,
+          "Piety": 6,
+          "Rationalism": 8,
+          "Exploration": 6,
+          "Aesthetics": 8,
+          "Freedom": 7,
+          "Autocracy": 8,
+          "Order": 9,
+          "National Defense": 9
+      }
+},
+  {
+      "name": "Sejong",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 6,
+      "food": 8,
+      "gold": 7,
+      "happiness": 7,
+      "production": 7,
+      "science": 10,
+      // Behavior focused personalities
+      "military": 7,
+      "aggressive": 5,
+      "declareWar": 5,
+      "commerce": 7,
+      "diplomacy": 8,
+      "loyal": 8,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 6,
+          "Honor": 6,
+          "Commerce": 7,
+          "Patronage": 7,
+          "Piety": 6,
+          "Rationalism": 10,
+          "Exploration": 6,
+          "Aesthetics": 8,
+          "Freedom": 7,
+          "Autocracy": 6,
+          "Order": 8,
+          "National Defense": 8
+      }
+},
+  {
+      "name": "Boudicca",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 9,
+      "food": 7,
+      "gold": 6,
+      "happiness": 7,
+      "production": 7,
+      "science": 6,
+      // Behavior focused personalities
+      "military": 8,
+      "aggressive": 8,
+      "declareWar": 7,
+      "commerce": 6,
+      "diplomacy": 6,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 6,
+          "Honor": 9,
+          "Commerce": 6,
+          "Patronage": 6,
+          "Piety": 9,
+          "Rationalism": 6,
+          "Exploration": 5,
+          "Aesthetics": 8,
+          "Freedom": 7,
+          "Autocracy": 8,
+          "Order": 7,
+          "National Defense": 8
+      }
+},
+  {
+      "name": "Harun al-Rashid",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 9,
+      "food": 7,
+      "gold": 8,
+      "happiness": 7,
+      "production": 7,
+      "science": 9,
+      // Behavior focused personalities
+      "military": 7,
+      "aggressive": 6,
+      "declareWar": 5,
+      "commerce": 8,
+      "diplomacy": 8,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 7,
+          "Honor": 6,
+          "Commerce": 8,
+          "Patronage": 8,
+          "Piety": 9,
+          "Rationalism": 9,
+          "Exploration": 6,
+          "Aesthetics": 8,
+          "Freedom": 7,
+          "Autocracy": 6,
+          "Order": 8,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Gandhi",
+      // Stats focused personalities
+      "culture": 9,
+      "faith": 8,
+      "food": 8,
+      "gold": 7,
+      "happiness": 8,
+      "production": 7,
+      "science": 8,
+      // Behavior focused personalities
+      "military": 4,
+      "aggressive": 2,
+      "declareWar": 2,
+      "commerce": 7,
+      "diplomacy": 10,
+      "loyal": 9,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 8,
+          "Honor": 4,
+          "Commerce": 7,
+          "Patronage": 9,
+          "Piety": 8,
+          "Rationalism": 8,
+          "Exploration": 6,
+          "Aesthetics": 9,
+          "Freedom": 10,
+          "Autocracy": 2,
+          "Order": 7,
+          "National Defense": 6
+      }
+},
+  {
+      "name": "Kamehameha I",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 7,
+      "food": 7,
+      "gold": 6,
+      "happiness": 8,
+      "production": 7,
+      "science": 6,
+      // Behavior focused personalities
+      "military": 7,
+      "aggressive": 6,
+      "declareWar": 5,
+      "commerce": 7,
+      "diplomacy": 8,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 7,
+          "Honor": 7,
+          "Commerce": 7,
+          "Patronage": 8,
+          "Piety": 7,
+          "Rationalism": 6,
+          "Exploration": 10,
+          "Aesthetics": 8,
+          "Freedom": 7,
+          "Autocracy": 6,
+          "Order": 7,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Wu Zetian",
+      // Stats focused personalities
+      "culture": 9,
+      "faith": 7,
+      "food": 8,
+      "gold": 7,
+      "happiness": 8,
+      "production": 9,
+      "science": 9,
+      // Behavior focused personalities
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 6,
+      "commerce": 8,
+      "diplomacy": 8,
+      "loyal": 9,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 7,
+          "Honor": 8,
+          "Commerce": 8,
+          "Patronage": 7,
+          "Piety": 7,
+          "Rationalism": 9,
+          "Exploration": 6,
+          "Aesthetics": 9,
+          "Freedom": 7,
+          "Autocracy": 8,
+          "Order": 9,
+          "National Defense": 8
+      }
+},
+  {
+      "name": "Haile Selassie",
+      // Stats focused personalities
+      "culture": 8,
+      "faith": 9,
+      "food": 7,
+      "gold": 6,
+      "happiness": 8,
+      "production": 7,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 7,
+      "aggressive": 5,
+      "declareWar": 4,
+      "commerce": 6,
+      "diplomacy": 9,
+      "loyal": 9,
+      "expansion": 6,
+
+      "priorities": {
+          "Tradition": 8,
+          "Liberty": 7,
+          "Honor": 6,
+          "Commerce": 6,
+          "Patronage": 9,
+          "Piety": 9,
+          "Rationalism": 7,
+          "Exploration": 5,
+          "Aesthetics": 8,
+          "Freedom": 8,
+          "Autocracy": 5,
+          "Order": 7,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Ramkhamhaeng",
+      // Stats focused personalities
+      "culture": 9,
+      "faith": 8,
+      "food": 8,
+      "gold": 7,
+      "happiness": 8,
+      "production": 7,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 6,
+      "aggressive": 5,
+      "declareWar": 5,
+      "commerce": 8,
+      "diplomacy": 9,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 8,
+          "Honor": 6,
+          "Commerce": 8,
+          "Patronage": 9,
+          "Piety": 8,
+          "Rationalism": 7,
+          "Exploration": 6,
+          "Aesthetics": 9,
+          "Freedom": 8,
+          "Autocracy": 5,
+          "Order": 7,
+          "National Defense": 7
+      }
+},
+  {
+      "name": "Askia",
+      // Stats focused personalities
+      "culture": 7,
+      "faith": 8,
+      "food": 7,
+      "gold": 9,
+      "happiness": 7,
+      "production": 8,
+      "science": 7,
+      // Behavior focused personalities
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 6,
+      "commerce": 9,
+      "diplomacy": 7,
+      "loyal": 8,
+      "expansion": 7,
+
+      "priorities": {
+          "Tradition": 7,
+          "Liberty": 7,
+          "Honor": 8,
+          "Commerce": 9,
+          "Patronage": 7,
+          "Piety": 8,
+          "Rationalism": 7,
+          "Exploration": 6,
+          "Aesthetics": 7,
+          "Freedom": 7,
+          "Autocracy": 7,
+          "Order": 8,
+          "National Defense": 7
+      }
+},
+{
+      "name": "Pachacuti",
+      // Stats focused personalities
+      "culture": 9,
+      "faith": 7,
+      "food": 8,
+      "gold": 7,
+      "happiness": 7,
+      "production": 9,
+      "science": 8,
+      // Behavior focused personalities
+      "military": 8,
+      "aggressive": 7,
+      "declareWar": 6,
+      "commerce": 7,
+      "diplomacy": 7,
+      "loyal": 8,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 7,
+          "Honor": 8,
+          "Commerce": 7,
+          "Patronage": 7,
+          "Piety": 7,
+          "Rationalism": 8,
+          "Exploration": 6,
+          "Aesthetics": 9,
+          "Freedom": 7,
+          "Autocracy": 7,
+          "Order": 9,
+          "National Defense": 8
+      }
+},
+ {
+      "name": "Suleiman I",
+      // Stats focused personalities
+      "culture": 9,
+      "faith": 8,
+      "food": 7,
+      "gold": 8,
+      "happiness": 7,
+      "production": 8,
+      "science": 8,
+      // Behavior focused personalities
+      "military": 9,
+      "aggressive": 8,
+      "declareWar": 7,
+      "commerce": 8,
+      "diplomacy": 8,
+      "loyal": 8,
+      "expansion": 8,
+
+      "priorities": {
+          "Tradition": 9,
+          "Liberty": 7,
+          "Honor": 9,
+          "Commerce": 8,
+          "Patronage": 8,
+          "Piety": 8,
+          "Rationalism": 8,
+          "Exploration": 7,
+          "Aesthetics": 9,
+          "Freedom": 7,
+          "Autocracy": 8,
+          "Order": 8,
+          "National Defense": 8
+      }
+}
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+

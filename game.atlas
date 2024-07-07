@@ -1,0 +1,880 @@
+game.png
+size: 2000, 1900
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PolicyIcons/Academy of Sciences
+  rotate: false
+  xy: 0, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Aerial Supremacy
+  rotate: false
+  xy: 1000, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Amsterdam Exchange Bank
+  rotate: false
+  xy: 1200, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Ancient Israel
+  rotate: false
+  xy: 1400, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Apadana
+  rotate: false
+  xy: 1600, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Arctic Research Station
+  rotate: false
+  xy: 1800, 100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Artistic Genius
+  rotate: false
+  xy: 50, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitIcons/Assassin
+  rotate: false
+  xy: 0, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Babylonian Bowman
+  rotate: false
+  xy: 200, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Babylonian Shield Bearer
+  rotate: false
+  xy: 400, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Canal
+  rotate: false
+  xy: 600, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Capitalism
+  rotate: false
+  xy: 100, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Caravanserai
+  rotate: false
+  xy: 800, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Cardinal Protector
+  rotate: false
+  xy: 1000, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cathedral of World Unity
+  rotate: false
+  xy: 1200, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Caviar
+  rotate: false
+  xy: 1400, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Chateau
+  rotate: false
+  xy: 1600, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Clan Chieftan
+  rotate: false
+  xy: 1800, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Cocoa
+  rotate: false
+  xy: 1050, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Coffee
+  rotate: false
+  xy: 0, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Commandery
+  rotate: false
+  xy: 200, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Companion Cavalry
+  rotate: false
+  xy: 400, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Consulates
+  rotate: false
+  xy: 150, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cothon
+  rotate: false
+  xy: 600, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Cultural Centers
+  rotate: false
+  xy: 200, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Cultural Exchange
+  rotate: false
+  xy: 250, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitIcons/Daimyo
+  rotate: false
+  xy: 800, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Dojo
+  rotate: false
+  xy: 1000, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Dry Dock
+  rotate: false
+  xy: 1200, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Dutch Windmill
+  rotate: false
+  xy: 1400, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/East India Company
+  rotate: false
+  xy: 1150, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Eastern Orthodoxy
+  rotate: false
+  xy: 1250, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/El Caracol
+  rotate: false
+  xy: 1600, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Elite Forces
+  rotate: false
+  xy: 300, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Five-Year Plan
+  rotate: false
+  xy: 350, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Flourishing of the Arts
+  rotate: false
+  xy: 400, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Fortified Borders
+  rotate: false
+  xy: 450, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fortress of Alamut
+  rotate: false
+  xy: 1800, 500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Fortress
+  rotate: false
+  xy: 0, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Geisha House
+  rotate: false
+  xy: 200, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ger Camp
+  rotate: false
+  xy: 400, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Globe Theatre
+  rotate: false
+  xy: 600, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Gran Colombia
+  rotate: false
+  xy: 1350, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Great Admiral
+  rotate: false
+  xy: 1450, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Great Galleass
+  rotate: false
+  xy: 1550, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Great Hall
+  rotate: false
+  xy: 800, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Green Corn Ceremonial Ground
+  rotate: false
+  xy: 1000, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gregor Mendel's Research Lab
+  rotate: false
+  xy: 1200, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Gurkha Soldier
+  rotate: false
+  xy: 1400, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hacienda
+  rotate: false
+  xy: 1600, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hammam
+  rotate: false
+  xy: 1800, 700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hanse
+  rotate: false
+  xy: 0, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Highland Hall
+  rotate: false
+  xy: 200, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+Highland Warrior
+  rotate: false
+  xy: 400, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hippodrome
+  rotate: false
+  xy: 600, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/House of Borgia
+  rotate: false
+  xy: 1650, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Huey Teocalli
+  rotate: false
+  xy: 800, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ikhanda
+  rotate: false
+  xy: 1000, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Impenetrable Walls
+  rotate: false
+  xy: 1200, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Impi
+  rotate: false
+  xy: 1400, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Junk Ship
+  rotate: false
+  xy: 1600, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Knights Templar
+  rotate: false
+  xy: 1750, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Kraal
+  rotate: false
+  xy: 1800, 900
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Libertador’s Plaza
+  rotate: false
+  xy: 0, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Llanero
+  rotate: false
+  xy: 200, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Longship
+  rotate: false
+  xy: 400, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Maccabee
+  rotate: false
+  xy: 600, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Maritime Infrastructure
+  rotate: false
+  xy: 500, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Master of Disguise
+  rotate: false
+  xy: 800, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mercenary Army
+  rotate: false
+  xy: 550, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitIcons/Merchant of Venice
+  rotate: false
+  xy: 1850, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mission
+  rotate: false
+  xy: 1000, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mozart's Concert Hall
+  rotate: false
+  xy: 1200, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Naval Vanguard
+  rotate: false
+  xy: 1400, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Navigation School
+  rotate: false
+  xy: 600, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nilometer
+  rotate: false
+  xy: 1600, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Norseman Vikings
+  rotate: false
+  xy: 0, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Onondaga Scout
+  rotate: false
+  xy: 1800, 1100
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Palace of the Popes
+  rotate: false
+  xy: 0, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Papal Guard
+  rotate: false
+  xy: 200, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Patriotic Valor
+  rotate: false
+  xy: 400, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Patriotic War
+  rotate: false
+  xy: 650, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ReligionIcons/Protestantism
+  rotate: false
+  xy: 100, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Qizilbash
+  rotate: false
+  xy: 600, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Red Flag Pirate Confederation
+  rotate: false
+  xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Rialto Port
+  rotate: false
+  xy: 800, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Rice Paddy
+  rotate: false
+  xy: 1000, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Royal Library
+  rotate: false
+  xy: 1200, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Russian Winter Guard
+  rotate: false
+  xy: 1400, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Safavid Dynasty
+  rotate: false
+  xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Scottish Clans
+  rotate: false
+  xy: 400, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sea Fort
+  rotate: false
+  xy: 1600, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Seowon
+  rotate: false
+  xy: 1800, 1300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sequoyah's Syllabary
+  rotate: false
+  xy: 0, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Silicon Valley
+  rotate: false
+  xy: 200, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Silk Routes
+  rotate: false
+  xy: 400, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Smithsonian
+  rotate: false
+  xy: 600, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Smugglers Cove
+  rotate: false
+  xy: 800, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Spanish Inquisitor
+  rotate: false
+  xy: 1000, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Sparta
+  rotate: false
+  xy: 500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Spartan Barracks
+  rotate: false
+  xy: 1200, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Spartan Hoplite
+  rotate: false
+  xy: 1400, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Synagogue
+  rotate: false
+  xy: 1600, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tea
+  rotate: false
+  xy: 1800, 1500
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Templar Crossbowman
+  rotate: false
+  xy: 0, 1700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Templar Knight
+  rotate: false
+  xy: 200, 1700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/The Order of Assassins
+  rotate: false
+  xy: 600, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Three Sisters Farm
+  rotate: false
+  xy: 400, 1700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Tobacco
+  rotate: false
+  xy: 600, 1700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Tokugawa Shogunate
+  rotate: false
+  xy: 700, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Treasure Fleets
+  rotate: false
+  xy: 700, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Universal Healthcare
+  rotate: false
+  xy: 750, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Urbanization
+  rotate: false
+  xy: 800, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+NationIcons/Venice
+  rotate: false
+  xy: 800, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Volunteer Army
+  rotate: false
+  xy: 850, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Wagon Trains
+  rotate: false
+  xy: 900, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BuildingIcons/Wall Street
+  rotate: false
+  xy: 800, 1700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Workers' Faculties
+  rotate: false
+  xy: 950, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+BuildingIcons/World Bank
+  rotate: false
+  xy: 1000, 1700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/World Stock Market
+  rotate: false
+  xy: 1200, 1700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/World's Diamond Mines
+  rotate: false
+  xy: 1400, 1700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/World's Gold Mines
+  rotate: false
+  xy: 1600, 1700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+PolicyIcons/Young Pioneers
+  rotate: false
+  xy: 1000, 0
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitIcons/Zamburak
+  rotate: false
+  xy: 1800, 1700
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Zulu
+  rotate: false
+  xy: 900, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

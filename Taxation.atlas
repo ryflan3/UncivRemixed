@@ -1,0 +1,27 @@
+Taxation.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/-10% Tax
+  rotate: false
+  xy: 200, 400
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/+10% Tax
+  rotate: false
+  xy: 400, 0
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ResourceIcons/Taxation(%)
+  rotate: false
+  xy: 400, 200
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+
