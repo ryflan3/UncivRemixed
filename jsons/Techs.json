@@ -44,4 +44,43 @@
 			}
 		]
 	},
+	{
+		"columnNumber": 12,
+		"era": "Modern era",
+		"techCost": 4100,
+		"buildingCost": 500,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Urbanization",
+				"row": 1,
+				"prerequisites": ["Geoengineering"], 
+				"quote": "Cities have the capability of providing something for everybody, only because, and only when, they are created by everybody."
+			},
+			{
+				"name": "Plastics",
+				"row": 3,
+				"prerequisites": ["Radio","Replaceable Parts"],
+				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
+			},
+			{
+				"name": "Electronics",
+				"row": 5,
+				"prerequisites": ["Replaceable Parts", "Flight"],
+				"quote": "'There's a basic principle about consumer electronics: it gets more powerful all the time and it gets cheaper all the time.' - Trip Hawkins"
+			},
+			{
+				"name": "Ballistics",
+				"row": 6,
+				"prerequisites": ["Flight"],
+				"quote": "'Men, like bullets, go farthest when they are smoothest.' - Jean Paul"
+			},
+			{
+				"name": "Combustion",
+				"row": 8,
+				"prerequisites": ["Railroads"],
+				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
+			}
+		]
+	},
 ]
