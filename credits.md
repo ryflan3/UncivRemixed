@@ -91,6 +91,8 @@ grand bazaar by Lars Meiertoberens from <a href="https://thenounproject.com/brow
 urbanization by WiStudio from <a href="https://thenounproject.com/browse/icons/term/urbanization/" target="_blank" title="urbanization Icons">Noun Project</a> (CC BY 3.0)
 hadron collider by Loritas Medina from <a href="https://thenounproject.com/browse/icons/term/hadron-collider/" target="_blank" title="hadron collider Icons">Noun Project</a> (CC BY 3.0)
 Dome of the Rock by Brickclay from <a href="https://thenounproject.com/browse/icons/term/dome-of-the-rock/" target="_blank" title="Dome of the Rock Icons">Noun Project</a> (CC BY 3.0)
+Art by Amethyst Studio from <a href="https://thenounproject.com/browse/icons/term/art/" target="_blank" title="Art Icons">Noun Project</a> (CC BY 3.0)
+
 
 * [phaser] modified from (https://freesound.org/people/IanStarGem/sounds/341831/) by IanStarGem
 Canoe by Yoyon Pujiyono from <a href="https://thenounproject.com/browse/icons/term/canoe/" target="_blank" title="Canoe Icons">Noun Project</a> (CC BY 3.0)
