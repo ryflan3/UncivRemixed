@@ -374,7 +374,7 @@ BuildingIcons/Highland Hall
   orig: 200, 200
   offset: 0, 0
   index: -1
-Highland Warrior
+UnitIcons/Highland Warrior
   rotate: false
   xy: 400, 900
   size: 200, 200
