@@ -816,5 +816,13 @@
         ],
         "requiredTech": "Geoengineering"
     },
+	{
+        "name": "Parthenon", 
+        "culture": 5,
+        "isWonder": true,
+        "greatPersonPoints": {"Great Artist": 1},
+        "requiredTech": "Drama and Poetry",
+        "quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
+    },
 
 ]
