@@ -831,8 +831,7 @@
         "greatPersonPoints": {"Great Engineer": 2},
         "requiredTech": "Geoengineering",
 	"uniques": ["[+25]% [Food] [in all cities]","[+15]% [Production] [in all cities]"],
-        "quote": "It is fitting that the contemplation of the engineering genius of man should lead us to the admiration of the Creator, for both are expressions of the same laws.
-— Franklin D. Roosevelt"
+        "quote": "It is fitting that the contemplation of the engineering genius of man should lead us to the admiration of the Creator, for both are expressions of the same laws."
     },
 	{
         "name": "Burj Khalifa", 
