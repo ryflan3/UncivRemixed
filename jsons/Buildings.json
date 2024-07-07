@@ -824,5 +824,26 @@
         "requiredTech": "Drama and Poetry",
         "quote": "'Earth proudly wears the Parthenon as the best gem upon her zone.' - Ralph Waldo Emerson"
     },
+	{
+        "name": "Hoover Dam", 
+        "culture": 1,
+        "isWonder": true,
+        "greatPersonPoints": {"Great Engineer": 2},
+        "requiredTech": "Geoengineering",
+	"uniques": ["[+25]% [Food] [in all cities]","[+15]% [Production] [in all cities]"],
+        "quote": "It is fitting that the contemplation of the engineering genius of man should lead us to the admiration of the Creator, for both are expressions of the same laws.
+— Franklin D. Roosevelt"
+    },
+	{
+        "name": "Burj Khalifa", 
+        "culture": 5,
+        "isWonder": true,
+        "greatPersonPoints": {"Great Engineer": 2},
+        "requiredTech": "Geoengineering",
+	"uniques": ["[+25]% [Gold] [in all cities]",],
+        "quote": "It is fitting that the contemplation of the engineering genius of man should lead us to the admiration of the Creator, for both are expressions of the same laws.
+— Franklin D. Roosevelt"
+    },
+
 
 ]
