@@ -839,10 +839,9 @@
         "culture": 5,
         "isWonder": true,
         "greatPersonPoints": {"Great Engineer": 2},
-        "requiredTech": "Geoengineering",
-	"uniques": ["[+25]% [Gold] [in all cities]",],
-        "quote": "It is fitting that the contemplation of the engineering genius of man should lead us to the admiration of the Creator, for both are expressions of the same laws.
-— Franklin D. Roosevelt"
+        "requiredTech": "Urbanization",
+	"uniques": ["[+25]% [Gold] [in all cities]","[+100]% Yield from every [Resort]"],
+        "quote": "Standing tall and proud, the Burj Khalifa embodies the spirit of global collaboration and the heights that human innovation can achieve."
     },
 
 
