@@ -842,6 +842,15 @@
 	"uniques": ["[+25]% [Gold] [in all cities]","[+100]% Yield from every [Resort]"],
         "quote": "Standing tall and proud, the Burj Khalifa embodies the spirit of global collaboration and the heights that human innovation can achieve."
     },
+	{
+        "name": "Hadron Collider", 
+        "science": 6,
+	"culture": 1,
+        "isWonder": true,
+        "greatPersonPoints": {"Great Scientist": 3},
+        "requiredTech": "Computers",
+	"uniques": ["[+25]% [Science] [in all cities]","[+100]% Yield from every [Arctic Research Station]"],
+    },
 
 
 ]
