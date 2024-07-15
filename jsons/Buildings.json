@@ -494,24 +494,28 @@
                 "name": "World's Gold Mines",
 		"cost": 99999999,
 		"isNationalWonder": true,
+		"requiredTech": "Geoengineering",
                 "uniques": ["Can be purchased with [Gold] [in capital]","Can be purchased for [30000] [Gold] [in capital]","Unsellable","Unbuildable","[+3 Gold] from [Gold Ore] tiles [in all cities]"],
         },
         {
                 "name": "World's Diamond Mines",
 		"cost": 99999999,
 		"isNationalWonder": true,
+		"requiredTech": "Geoengineering",
                 "uniques": ["Can be purchased with [Gold] [in capital]","Can be purchased for [10000] [Gold] [in capital]","Unsellable","Unbuildable","[+3 Gold] from [Gems] tiles [in all cities]"],
         },
         {
                 "name": "World Stock Market",
 		"cost": 99999999,
 		"isNationalWonder": true,
+		"requiredTech": "Geoengineering",
                 "uniques": ["Can be purchased with [Gold] [in capital]","Can be purchased for [10000] [Gold] [in capital]","Unsellable","Unbuildable","[+50]% [Gold] from every [Stock Exchange]"],
         },
         {
                 "name": "World Bank",
 		"cost": 99999999,
 		"isNationalWonder": true,
+		"requiredTech": "Geoengineering",
                 "uniques": ["Can be purchased with [Gold] [in capital]","Can be purchased for [50000] [Gold] [in capital]","Unsellable","Unbuildable","Production to [Gold] conversion in cities changed by [+75]%"],
         },
 	{
