@@ -1311,7 +1311,7 @@
     "outerColor": [30, 144, 255], 
     "innerColor": [139, 69, 19],   
     "uniqueName": "Council of Peace",
-    "uniques":["[+2 Faith, +2 Food] from [Forest] tiles [in all cities]","[+2 Happiness, +2 Production, +1 Food] from each Trade Route","When declaring friendship, both parties gain a [+3]% boost to great person generation","[+1 Culture] from [Luxury resource] tiles [in capital]","[+25]% Culture cost of natural border growth [in all cities]"],
+    "uniques":["[+1 Faith, +1 Food] from [Forest] tiles [in all cities]","[+2 Happiness, +2 Production, +1 Food] from each Trade Route","When declaring friendship, both parties gain a [+3]% boost to great person generation","[+1 Culture] from [Luxury resource] tiles [in capital]","[+40]% Culture cost of natural border growth [in all cities]"],
     
  "cities": [
         "New Echota",
