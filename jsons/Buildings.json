@@ -615,7 +615,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["+2 Production] from each Trade Route"],
+		"uniques": ["[+2 Production] from each Trade Route"],
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
 	},
