@@ -1432,7 +1432,7 @@
 		"name": "Safavid Dynasty",
 		"leaderName": "Shah Abbas the Great",
 		"adjective": ["Safavid"],
-		"startBias": ["Mountain","Dessert"],
+		"startBias": ["Mountain","Desert"],
 		"preferredVictoryType": "Cultural",
 
     "startIntroPart1": "Welcome to the grand court of Shah Abbas the Great, ruler of the magnificent Safavid Dynasty. Under my reign, Iran has blossomed into a land of splendor and might.",
