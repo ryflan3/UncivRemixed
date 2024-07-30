@@ -118,7 +118,7 @@
 		"gold": 1,
 		"movementCost": 1,
 		"RGB": [43, 87, 151],
-		"uniques": ["Becomes [Coast] when adjacent to [Beach]"]
+		"uniques": ["Becomes [Coast] when adjacent to [Beach]","Becomes [Coast] when adjacent to [Coast]"]
 	},
 	{
 		"name": "Fallout",
