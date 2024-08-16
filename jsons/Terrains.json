@@ -121,6 +121,24 @@
 		"uniques": ["Becomes [Coast] when adjacent to [Beach]"]
 	},
 	{
+		"name": "Lakes",
+		"type": "Water",
+		"food": 2,
+		"gold": 1,
+		"RGB": [0, 171, 169],
+		"uniques": ["Fresh water",
+					"Considered [Food] when determining start locations",
+					"Considered [Desirable] when determining start locations","Becomes [Coast] when adjacent to [Coast]"],
+        "civilopediaText": [
+            {"text": "Lakes provide fresh water to adjacent tiles, allowing farming where it would otherwise not be possible (similar to Rivers and Oases)."},
+            {"text": "Rivers", "link":"Terrain/River"},
+            {"text": "Oasis", "link":"Terrain/Oasis"},
+            {"text": "Farm", "link":"Improvement/Farm"},
+            {"text": "Civil Service", "link":"Technology/Civil Service"},
+            {"text": "Fertilizer", "link":"Technology/Fertilizer"}
+        ]
+	},
+	{
 		"name": "Fallout",
 		"type": "TerrainFeature",
 		"movementCost": 2,
