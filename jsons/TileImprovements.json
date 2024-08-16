@@ -63,7 +63,7 @@
                 "terrainsCanBeBuiltOn": ["Beach"],
                 "production": 2,
                 "turnsToBuild": 8,
-                "techRequired": "Combustion",
+                "techRequired": "Navigation",
                 "uniques": ["[+1 Production] <after discovering [Pharmaceuticals]>",
                         "[+1 Production] <after discovering [Robotics]>",
                         "Pillaging this improvement yields approximately [+30 Gold]"],
