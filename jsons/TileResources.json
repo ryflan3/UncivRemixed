@@ -77,5 +77,26 @@
 			"Doesn't generate naturally <in [Tundra] tiles>",
 			"Doesn't generate naturally <in [Desert] tiles>"
 		]
+	},
+	{
+		"name": "Bullion",
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled", "Cannot be traded", "Excluded from map editor", "Doesn't generate naturally"],
+		"civilopediaText": [
+			{
+				"text": "The reserve currency of the Economic victory. Every Mint and Bank adds 1 Bullion per turn and every Stock Exchange adds 2."
+			},
+			{
+				"text": "Bullion cannot be traded or bought. It is spent when work starts on one of the four pillars of the world economy."
+			},
+			{
+				"text": "World's Gold Mines",
+				"link": "Building/World's Gold Mines"
+			},
+			{
+				"text": "World Bank",
+				"link": "Building/World Bank"
+			}
+		]
 	}
 ]

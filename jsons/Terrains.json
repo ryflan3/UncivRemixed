@@ -129,6 +129,95 @@
 		]
 	},
 	{
+		"name": "Mount Vesuvius",
+		"type": "NaturalWonder",
+		"production": 2,
+		"science": 3,
+		"occursOn": ["Grassland", "Plains"],
+		"uniques": [
+			"Must be adjacent to [1] to [3] [Coast] tiles",
+			"Must be adjacent to [0] [Tundra] tiles",
+			"Must be adjacent to [0] [Desert] tiles",
+			"Must be adjacent to [0] to [2] [Mountain] tiles"
+		],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 8,
+		"civilopediaText": [
+			{
+				"text": "A volcano standing alone above a bay. Its ash makes the land around it some of the richest anywhere: every land tile next to Mount Vesuvius yields +1 Food."
+			}
+		]
+	},
+	{
+		"name": "Giant's Causeway",
+		"type": "NaturalWonder",
+		"production": 1,
+		"culture": 3,
+		"faith": 2,
+		"occursOn": ["Grassland", "Plains", "Tundra"],
+		"uniques": [
+			"Must be adjacent to [2] to [5] [Coast] tiles",
+			"Must be adjacent to [0] [Desert] tiles",
+			"Occurs on latitudes from [35] to [85] percent of distance equator to pole"
+		],
+		"turnsInto": "Plains",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 8,
+		"civilopediaText": [
+			{
+				"text": "Tens of thousands of interlocking basalt columns stepping down into the sea, left behind by an ancient lava flow."
+			}
+		]
+	},
+	{
+		"name": "Ha Long Bay",
+		"type": "NaturalWonder",
+		"food": 3,
+		"culture": 2,
+		"gold": 1,
+		"occursOn": ["Coast"],
+		"uniques": [
+			"Must be adjacent to [1] to [4] [Land] tiles",
+			"Must be adjacent to [0] [Ice] tiles",
+			"Occurs on latitudes from [0] to [55] percent of distance equator to pole",
+			"Occurs in groups of [2] to [2] tiles"
+		],
+		"turnsInto": "Coast",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 8,
+		"civilopediaText": [
+			{
+				"text": "A bay crowded with limestone towers rising straight out of green water."
+			}
+		]
+	},
+	{
+		"name": "Whitehaven Beach",
+		"type": "NaturalWonder",
+		"gold": 3,
+		"culture": 2,
+		"happiness": 2,
+		"occursOn": ["Grassland", "Plains", "Desert"],
+		"uniques": [
+			"Must be adjacent to [2] to [4] [Coast] tiles",
+			"Must be adjacent to [0] [Tundra] tiles",
+			"Neighboring tiles will convert to [Beach] <in [Land] tiles> <in [Featureless] tiles> <in tiles without [Mountain]>"
+		],
+		"turnsInto": "Beach",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 6,
+		"civilopediaText": [
+			{
+				"text": "Seven kilometres of almost pure white silica sand. The flat land around it is Beach as well."
+			}
+		]
+	},
+	{
 		"name": "Fallout",
 		"type": "TerrainFeature",
 		"movementCost": 2,

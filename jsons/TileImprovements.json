@@ -125,6 +125,124 @@
 		"shortcutKey": "T"
 	},
 	{
+		"name": "Longphort",
+		"uniqueTo": "Norseman Vikings",
+		"terrainsCanBeBuiltOn": ["Beach", "Grassland", "Plains", "Desert", "Tundra", "Snow"],
+		"production": 1,
+		"gold": 1,
+		"turnsToBuild": 5,
+		"techRequired": "Sailing",
+		"uniques": [
+			"Can only be built on [Coastal] tiles",
+			"Gives a defensive bonus of [25]%",
+			"[+1 Gold] <after discovering [Compass]>",
+			"Pillaging this improvement yields approximately [+15 Gold]"
+		],
+		"shortcutKey": "L"
+	},
+	{
+		"name": "Hidden Cove",
+		"uniqueTo": "Red Flag Pirate Confederation",
+		"terrainsCanBeBuiltOn": ["Beach"],
+		"gold": 2,
+		"production": 1,
+		"turnsToBuild": 5,
+		"techRequired": "Sailing",
+		"uniques": [
+			"Can be built outside your borders",
+			"Gives a defensive bonus of [25]%",
+			"[+1 Gold] <after discovering [Navigation]>",
+			"Pillaging this improvement yields approximately [+25 Gold]"
+		],
+		"shortcutKey": "H"
+	},
+	{
+		"name": "Onsen",
+		"uniqueTo": "Tokugawa Shogunate",
+		"terrainsCanBeBuiltOn": ["Grassland", "Plains", "Tundra", "Hill"],
+		"culture": 1,
+		"gold": 1,
+		"turnsToBuild": 6,
+		"techRequired": "Construction",
+		"uniques": [
+			"Must be next to [Mountain]",
+			"[+1 Culture] for each adjacent [Volcano]",
+			"[+1 Gold] <after discovering [Archaeology]>",
+			"Pillaging this improvement yields approximately [+15 Gold]"
+		],
+		"shortcutKey": "O"
+	},
+	{
+		"name": "Isibaya",
+		"uniqueTo": "Zulu",
+		"terrainsCanBeBuiltOn": ["Grassland", "Plains"],
+		"food": 1,
+		"production": 1,
+		"turnsToBuild": 6,
+		"techRequired": "Animal Husbandry",
+		"uniques": [
+			"[+1 Food] <after discovering [Fertilizer]>",
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		],
+		"shortcutKey": "I"
+	},
+	{
+		"name": "Olive Grove",
+		"uniqueTo": "Ancient Israel",
+		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Hill"],
+		"food": 1,
+		"gold": 1,
+		"turnsToBuild": 6,
+		"techRequired": "Calendar",
+		"uniques": [
+			"[+1 Faith] <after discovering [Theology]>",
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		],
+		"shortcutKey": "G"
+	},
+	{
+		"name": "Distillery",
+		"uniqueTo": "Scottish Clans",
+		"terrainsCanBeBuiltOn": ["Grassland", "Plains", "Hill", "Tundra"],
+		"gold": 2,
+		"turnsToBuild": 7,
+		"techRequired": "Guilds",
+		"uniques": [
+			"Can only be built on [Fresh Water] tiles",
+			"[+1 Culture] <after discovering [Economics]>",
+			"Pillaging this improvement yields approximately [+20 Gold]"
+		],
+		"shortcutKey": "D"
+	},
+	{
+		"name": "Council Mound",
+		"uniqueTo": "Cherokee",
+		"terrainsCanBeBuiltOn": ["Grassland", "Plains"],
+		"culture": 1,
+		"faith": 1,
+		"turnsToBuild": 6,
+		"techRequired": "Masonry",
+		"uniques": [
+			"[+1 Culture] <after discovering [Archaeology]>",
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		],
+		"shortcutKey": "U"
+	},
+	{
+		"name": "Preceptory",
+		"uniqueTo": "Knights Templar",
+		"terrainsCanBeBuiltOn": ["Grassland", "Plains", "Hill", "Desert"],
+		"gold": 1,
+		"faith": 1,
+		"turnsToBuild": 7,
+		"techRequired": "Chivalry",
+		"uniques": [
+			"[+1 Gold] <after discovering [Banking]>",
+			"Pillaging this improvement yields approximately [+20 Gold]"
+		],
+		"shortcutKey": "Y"
+	},
+	{
 		"name": "Canal",
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra", "Flood plains", "Beach"],
 		"turnsToBuild": 20,

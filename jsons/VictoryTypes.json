@@ -8,14 +8,15 @@
 	},
 	{
 		"name": "Economic",
-		"victoryScreenHeader": "Buy the four pillars of the world economy\nin your capital to win!",
+		"victoryScreenHeader": "Build the four pillars of the world economy\nand out-earn every rival to win!",
 		"milestones": [
 			"Build [World's Gold Mines]",
 			"Build [World's Diamond Mines]",
 			"Build [World Stock Market]",
-			"Build [World Bank]"
+			"Build [World Bank]",
+			"Have more [[Gold] Per Turn] than each player's [[Gold] Per Turn]"
 		],
-		"victoryString": "You have taken over the World Economy with overwhelming economic power and monopolised the world's precious resources to show off your authority and bend the world to your will.",
+		"victoryString": "Every market, mine and bank on the planet answers to you. Your rivals still have their armies and their monuments, but they pay for them in your coin. The world economy is yours.",
 		"defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
 	},
 	{

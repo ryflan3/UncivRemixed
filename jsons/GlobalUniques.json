@@ -3,6 +3,10 @@
 	"uniques": [
 		"May buy [Rise Tax] buildings with [Culture] for [3] times their normal Production cost",
 		"May buy [Down Tax] buildings with [Culture] for [3] times their normal Production cost",
-		"[+1 Food] from [Land] tiles [in all cities] <in tiles adjacent to [Volcano] tiles>"
+		"[+1 Food] from [Land] tiles [in all cities] <in tiles adjacent to [Volcano] tiles>",
+		"[+1 Food] from [Land] tiles [in all cities] <in tiles adjacent to [Mount Vesuvius] tiles>",
+		"Provides [1] [Bullion] <for every [[Mint] Buildings]>",
+		"Provides [1] [Bullion] <for every [[Bank] Buildings]>",
+		"Provides [2] [Bullion] <for every [[Stock Exchange] Buildings]>"
 	]
 }
