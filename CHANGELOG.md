@@ -19,6 +19,8 @@
   40 unique units and 14 unique buildings (listed below).
 - Policies and technologies copied from the base game get back what the copies had lost: AI weighting,
   leader titles and branch priorities. The three new policy trees have priorities and titles too.
+- Ten base-game policies that the mod's reworked trees leave out (Trade Unions, Constitution, Fascism, Communism
+  and six more) are now removed properly. Before, they stayed in the ruleset as policies nobody could pick.
 - Leaders have the `denounceWillingness` and `denounced` fields the game now uses.
 - The mod declares that it needs the Gods & Kings ruleset.
 

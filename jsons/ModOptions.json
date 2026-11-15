@@ -2,6 +2,18 @@
 	"isBaseRuleset": false,
 	"nationsToRemove": ["Japan", "Denmark", "Sweden", "Jerusalem", "Vatican City"],
 	"unitsToRemove": ["Bowman", "Tercio", "Samurai", "Zero", "Carolean", "Hakkapeliitta"],
+	"policiesToRemove": [
+		"Trade Unions",
+		"Constitution",
+		"Universal Suffrage",
+		"Free Speech",
+		"Democracy",
+		"Populism",
+		"Fascism",
+		"Planned Economy",
+		"Nationalism",
+		"Communism"
+	],
 	"constants": {"cityWorkRange": 4},
 	"uniques": ["Mod requires [Civ V - Gods & Kings]"]
 }
