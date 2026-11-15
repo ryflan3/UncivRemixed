@@ -13,7 +13,11 @@ The Volcano tile, the four natural wonder tiles and the FantasyHex Beach tile ar
 Plains, Coast and Desert tiles of Unciv's HexaRealm and FantasyHex tilesets. The HexaRealm Beach, Shipyard,
 Resort and Sand Citadel tiles come from hachchch's coastal mod.
 
-The maps Ring of Fire, Skull Island, Four Kingdoms and Corsair Shoals were built for this mod.
+The map sprites for 21 tile improvements (both tilesets) were drawn for this mod; the FantasyHex Shipyard and Resort are
+reduced from the HexaRealm ones in hachchch's coastal mod.
+
+The maps Ring of Fire, Skull Island, Four Kingdoms, Corsair Shoals, Homelands, The Middle Sea, Monsoon Coast, Iron Passes,
+Stormwall, The Moatlands, Dune Sea, Thousand Lakes and Frostbound were built for this mod.
 
 ## Third-party icons
 

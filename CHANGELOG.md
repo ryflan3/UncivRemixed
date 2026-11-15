@@ -1,5 +1,34 @@
 # Changelog
 
+## 2.5 — Nine maps and map sprites for improvements
+
+### Maps
+
+Nine new maps, fourteen in all. The README has the full table.
+
+- **Built for particular civs** (Homelands, The Middle Sea, Monsoon Coast): eight starts each, every one in terrain
+  shaped for a named civilization and stocked with resources its abilities use. For example the Swiss start in a
+  valley of hills ringed by mountains (Alpine Pastures need a Hill next to a Mountain), the Inuit on a snow coast
+  with Fish, Whales and Furs, Portugal on a cape with unowned islets for Feitorias, and the Company among Tea,
+  Cotton, Sugar and Spices. The starts are stored per nation, so the new game option
+  *Select players from starting locations* fills the game with exactly those civs.
+- **Built for war** (Iron Passes, Stormwall, The Moatlands): single-tile mountain passes with forts in them,
+  cliff coasts with a handful of landing beaches, and river moats crossed only at fords.
+- **Unusual country** (Dune Sea, Thousand Lakes, Frostbound): a desert with one great river, a land of lakes,
+  and a ring of tundra around a frozen sea that holds the late-game resources.
+
+The forts on Iron Passes and Stormwall are ordinary Fort improvements on unowned land: +50% defence for whoever
+stands in them, and they can be pillaged.
+
+### Map sprites
+
+21 tile improvements now have their own sprite on the map in both tilesets, HexaRealm and FantasyHex:
+Alpine Pasture, Arctic Research Station, Canal, Caravanserai, Council Mound, Distillery, Dry Dock, Feitoria,
+Feitoria Port, Fortress, Hidden Cove, Hillfort, Inuksuk, Isibaya, Kampung, Longphort, Mountain Citadel,
+Olive Grove, Onsen, Preceptory and Rice Paddy. Before this they had no sprite of their own.
+Shipyard and Resort, which only had HexaRealm sprites, now have FantasyHex ones as well.
+The script that draws them is in `ArtSource/TileSprites/`.
+
 ## 2.4 — East India Trading Company
 
 **East India Trading Company** (Robert Clive) — *Company Rule*. A firm that conquers but never governs.

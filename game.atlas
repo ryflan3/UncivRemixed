@@ -958,203 +958,203 @@ NationIcons/Zulu
   index: -1
 PolicyBranchIcons/Aesthetics
   rotate: false
-  xy: 1124, 1496
+  xy: 656, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/Exploration
   rotate: false
-  xy: 1182, 1496
+  xy: 714, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyBranchIcons/National Defense
   rotate: false
-  xy: 1240, 1496
+  xy: 772, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Academy of Sciences
   rotate: false
-  xy: 1298, 1496
+  xy: 830, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Aerial Supremacy
   rotate: false
-  xy: 1356, 1496
+  xy: 888, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Artistic Genius
   rotate: false
-  xy: 1414, 1496
+  xy: 946, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Capitalism
   rotate: false
-  xy: 1472, 1496
+  xy: 1004, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Consulates
   rotate: false
-  xy: 1530, 1496
+  xy: 1062, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Cultural Centers
   rotate: false
-  xy: 1588, 1496
+  xy: 1120, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Cultural Exchange
   rotate: false
-  xy: 1646, 1496
+  xy: 1178, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Elite Forces
   rotate: false
-  xy: 1704, 1496
+  xy: 1236, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Entrepreneurship
   rotate: false
-  xy: 1762, 1496
+  xy: 1294, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Fine Arts
   rotate: false
-  xy: 1820, 1496
+  xy: 1352, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Five-Year Plan
   rotate: false
-  xy: 1878, 1496
+  xy: 1410, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Flourishing of the Arts
   rotate: false
-  xy: 1936, 1496
+  xy: 1468, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Fortified Borders
   rotate: false
-  xy: 8, 1604
+  xy: 1526, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Impenetrable Walls
   rotate: false
-  xy: 66, 1604
+  xy: 1584, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Maritime Infrastructure
   rotate: false
-  xy: 124, 1604
+  xy: 1642, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Master of Disguise
   rotate: false
-  xy: 182, 1604
+  xy: 1700, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Mercenary Army
   rotate: false
-  xy: 240, 1604
+  xy: 1758, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Naval Vanguard
   rotate: false
-  xy: 298, 1604
+  xy: 1816, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Navigation School
   rotate: false
-  xy: 356, 1604
+  xy: 1874, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Patriotic Valor
   rotate: false
-  xy: 414, 1604
+  xy: 1932, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Treasure Fleets
   rotate: false
-  xy: 472, 1604
+  xy: 1990, 1604
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Universal Healthcare
   rotate: false
-  xy: 530, 1604
+  xy: 8, 1668
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Urbanization
   rotate: false
-  xy: 588, 1604
+  xy: 66, 1668
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Volunteer Army
   rotate: false
-  xy: 646, 1604
+  xy: 124, 1668
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Wagon Trains
   rotate: false
-  xy: 704, 1604
+  xy: 182, 1668
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Workers' Faculties
   rotate: false
-  xy: 762, 1604
+  xy: 240, 1668
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -1236,79 +1236,352 @@ TechIcons/Urbanization
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Alpine Pasture
+  rotate: false
+  xy: 418, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Arctic Research Station
+  rotate: false
+  xy: 458, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Beach
   rotate: false
-  xy: 900, 1604
+  xy: 498, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Canal
+  rotate: false
+  xy: 538, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Caravanserai
+  rotate: false
+  xy: 578, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Council Mound
+  rotate: false
+  xy: 618, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Distillery
+  rotate: false
+  xy: 658, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Dry Dock
+  rotate: false
+  xy: 698, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Feitoria
+  rotate: false
+  xy: 738, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Feitoria Port
+  rotate: false
+  xy: 778, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Fortress
+  rotate: false
+  xy: 818, 1668
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Giant's Causeway
   rotate: false
-  xy: 940, 1604
+  xy: 858, 1668
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ha Long Bay
   rotate: false
-  xy: 980, 1604
+  xy: 898, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hidden Cove
+  rotate: false
+  xy: 938, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Hillfort
+  rotate: false
+  xy: 978, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Inuksuk
+  rotate: false
+  xy: 1018, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Isibaya
+  rotate: false
+  xy: 1058, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Kampung
+  rotate: false
+  xy: 1098, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Longphort
+  rotate: false
+  xy: 1138, 1668
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mount Vesuvius
   rotate: false
-  xy: 860, 1604
+  xy: 338, 1668
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Mountain Citadel
+  rotate: false
+  xy: 378, 1668
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Olive Grove
+  rotate: false
+  xy: 1178, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Onsen
+  rotate: false
+  xy: 1218, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Preceptory
+  rotate: false
+  xy: 1258, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Resort
+  rotate: false
+  xy: 1298, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Rice Paddy
+  rotate: false
+  xy: 1338, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Shipyard
+  rotate: false
+  xy: 1378, 1668
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Volcano
   rotate: false
-  xy: 820, 1604
+  xy: 298, 1668
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Whitehaven Beach
   rotate: false
-  xy: 1020, 1604
+  xy: 1418, 1668
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Beach
-  rotate: false
-  xy: 548, 1496
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Beach2
+TileSets/HexaRealm/Tiles/Alpine Pasture
   rotate: false
   xy: 620, 1496
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Beach3
+TileSets/HexaRealm/Tiles/Arctic Research Station
   rotate: false
   xy: 692, 1496
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Giant's Causeway
+TileSets/HexaRealm/Tiles/Beach
   rotate: false
   xy: 764, 1496
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Ha Long Bay
+TileSets/HexaRealm/Tiles/Beach2
   rotate: false
   xy: 836, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Beach3
+  rotate: false
+  xy: 908, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Canal
+  rotate: false
+  xy: 980, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Caravanserai
+  rotate: false
+  xy: 1052, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Council Mound
+  rotate: false
+  xy: 1124, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Distillery
+  rotate: false
+  xy: 1196, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Dry Dock
+  rotate: false
+  xy: 1268, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Feitoria
+  rotate: false
+  xy: 1340, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Feitoria Port
+  rotate: false
+  xy: 1412, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Fortress
+  rotate: false
+  xy: 1484, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Giant's Causeway
+  rotate: false
+  xy: 1556, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Ha Long Bay
+  rotate: false
+  xy: 1628, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Hidden Cove
+  rotate: false
+  xy: 1700, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Hillfort
+  rotate: false
+  xy: 1772, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Inuksuk
+  rotate: false
+  xy: 1844, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Isibaya
+  rotate: false
+  xy: 1916, 1496
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Kampung
+  rotate: false
+  xy: 8, 1604
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Longphort
+  rotate: false
+  xy: 80, 1604
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -1320,37 +1593,72 @@ TileSets/HexaRealm/Tiles/Mount Vesuvius
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Resort
-  rotate: false
-  xy: 908, 1496
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Sand Citadel
+TileSets/HexaRealm/Tiles/Mountain Citadel
   rotate: false
   xy: 404, 1496
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Shipyard
+TileSets/HexaRealm/Tiles/Olive Grove
   rotate: false
-  xy: 980, 1496
+  xy: 152, 1604
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Volcano
+TileSets/HexaRealm/Tiles/Onsen
+  rotate: false
+  xy: 224, 1604
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Preceptory
+  rotate: false
+  xy: 296, 1604
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Resort
+  rotate: false
+  xy: 368, 1604
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Rice Paddy
+  rotate: false
+  xy: 440, 1604
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sand Citadel
   rotate: false
   xy: 476, 1496
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Shipyard
+  rotate: false
+  xy: 512, 1604
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Volcano
+  rotate: false
+  xy: 548, 1496
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Whitehaven Beach
   rotate: false
-  xy: 1052, 1496
+  xy: 584, 1604
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

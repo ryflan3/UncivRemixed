@@ -43,11 +43,34 @@ Twenty new civilizations join the base roster, each with three to five unique un
 
 ## Maps
 
-Five ready-made maps come with the mod. In the new game screen choose *Custom* as the map type and pick one;
+Fourteen ready-made maps come with the mod. In the new game screen choose *Custom* as the map type and pick one;
 it switches on this mod and the Gods & Kings ruleset for you. All except North America have 8 start positions.
+
+**Built for particular civs.** Each start sits in country made for one civilization, with the resources and
+terrain its abilities want. Tick *Select players from starting locations* to play exactly those eight. If you
+pick other civs they are placed by the game as usual, and random AI opponents are drawn from the eight first.
+
+| Map | Size | The eight starts |
+|---|---|---|
+| Homelands | 88 × 58 | Inuit ice coast, Viking fjords, a Swiss mountain valley, a Portuguese cape with empty islets for Feitorias, Safavid desert, Khmer jungle basin, Zulu savanna, an Indonesian volcano chain |
+| The Middle Sea | 88 × 54 | Rome and Sparta on facing peninsulas, Venice in the gulf between them, Carthage, Egypt on its river, Ancient Israel, the Templars on a fortress island, the Assassins in a mountain ring with two passes |
+| Monsoon Coast | 86 × 58 | Mongol steppe, the Chinese river plain, Korea, the Tokugawa island arc, India, the East India Trading Company among plantations at the head of the bay, Siam, the Pirates in a maze of beaches |
+
+**Built for war.** Each one gives the defender something to hold and the attacker a problem to solve.
 
 | Map | Size | What it is |
 |---|---|---|
+| Iron Passes | 80 × 56 | Eight valleys walled off by mountains, each with its own climate. One pass between neighbours, one tile wide, with an old fort standing in it. No sea route |
+| Stormwall | 84 × 56 | Two continents across a narrow channel. Both shores are cliffs broken by a few landing beaches, with three fortress islands in mid-channel. 4 starts per side |
+| The Moatlands | 80 × 56 | Open cavalry country cut into nine realms by rivers. Every border is a moat with a few fords, and each ford has hills on both banks. The empty realm in the middle holds the best land |
+
+**Unusual country.**
+
+| Map | Size | What it is |
+|---|---|---|
+| Dune Sea | 84 × 54 | A desert continent with one great river, its flood plains and a tributary. Four starts on the river, four at oases |
+| Thousand Lakes | 82 × 54 | Forest, marsh and lakes everywhere. Fresh water for every city, almost no open ground for an army |
+| Frostbound | 80 × 56 | A ring of land around a frozen polar sea. Colder with every step inward, and the islands in the ice hold most of the Oil, Uranium and Aluminum |
 | Ring of Fire | 84 × 54 | Six lands in a ring around an inner sea, strung along a chain of volcanoes |
 | Skull Island | 72 × 58 | An island shaped like a skull over crossed bones: lagoon eyes, a volcano nose, ruins everywhere. Tropical |
 | Four Kingdoms | 76 × 61 | Four matching corner kingdoms, each joined by a causeway to a volcano-ringed prize island. Built to be fair |
@@ -73,8 +96,9 @@ Both rates are single numbers, so they are easy to change if you want more or le
 ## Art
 
 Original art made for this mod: emblems and leader portraits for the 20 new civs, icons for 35 unique units and
-13 unique improvements, and map tiles for the Volcano and the four natural wonders. The vector sources are in
-`ArtSource/`; the game reads the PNGs in `Images/`, packed into `game.png` / `game.atlas`.
+13 unique improvements, map tiles for the Volcano and the four natural wonders, and map sprites for 21 tile
+improvements in both tilesets (HexaRealm and FantasyHex), so they are drawn on the map as buildings.
+The vector sources and the sprite script are in `ArtSource/`; the game reads the PNGs in `Images/`, packed into `game.png` / `game.atlas`.
 Unciv on desktop repacks the atlas by itself whenever a file in `Images/` changes.
 
 ## Credits
