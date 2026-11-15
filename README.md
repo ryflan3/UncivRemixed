@@ -31,7 +31,7 @@ Nineteen new civilizations join the base roster, each with three to five unique 
 **Systems**
 
 - Three extra policy trees (Exploration, Aesthetics, National Defense) and extra beliefs and religions.
-- 48 city-states each have their own friend and ally bonus instead of sharing five types.
+- 44 city-states each have their own friend and ally bonus instead of sharing five types.
 - **Religious victory**: become the world religion, enhance it, then buy the Cathedral of World Unity with Faith
   in your holy city. Cultural victory needs 6 completed policy trees.
 - **Economic victory**: build the four pillars of the world economy in your capital and out-earn every rival.
