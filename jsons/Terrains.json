@@ -1,41 +1,57 @@
 [
-	// Coastal
 	{
 		"name": "Beach",
-                "type": "Land",
+		"type": "Land",
+		"food": 1,
 		"gold": 1,
 		"movementCost": 1,
-                "RGB": [255, 245, 189]
-
+		"RGB": [255, 245, 189],
+		"uniques": ["Doesn't generate naturally", "[+1] to Fertility for Map Generation"],
+		"civilopediaText": [
+			{
+				"text": "Sandy shoreline. A few flat, featureless coastal tiles turn into Beach when a map is generated."
+			},
+			{
+				"text": "Beaches cannot be farmed, but Shipyards, Resorts and Trading posts can be built on them."
+			},
+			{
+				"text": "Shipyard",
+				"link": "Improvement/Shipyard"
+			},
+			{
+				"text": "Resort",
+				"link": "Improvement/Resort"
+			}
+		]
 	},
-
-        // Vanila
-        {
-                "name": "Grassland",
+	{
+		"name": "Grassland",
 		"type": "Land",
 		"food": 2,
 		"movementCost": 1,
-        "RGB": [0, 163, 0],
-        "uniques": ["Occurs at temperature between [-0.4] and [0.1] and humidity between [0.2] and [0.4]",
-            "Occurs at temperature between [0.1] and [0.2] and humidity between [0.3] and [0.4]",
-            "Occurs at temperature between [-0.5] and [0.5] and humidity between [0.6] and [0.8]",
-            "Occurs at temperature between [-0.5] and [1] and humidity between [0.9] and [1]",
-            "Occurs at temperature between [0.9] and [1] and humidity between [0.2] and [1]",
-            "Occurs at temperature between [0.8] and [0.9] and humidity between [0.6] and [1]",
-            "Occurs at temperature between [0.7] and [0.8] and humidity between [0.7] and [1]",
-            "Occurs at temperature between [0.6] and [0.8] and humidity between [0.4] and [0.6]",
-            "[+3] to Fertility for Map Generation",
-            "A Region is formed with at least [30]% [Grassland] tiles, with priority [7]",
-            "A Region can not contain more [Plains] tiles than [Grassland] tiles",
-            "Considered [Desirable] when determining start locations",
-            "Considered [Food] when determining start locations <in [Jungle] Regions>",
-            "Considered [Food] when determining start locations <in [Forest] Regions>",
-            "Considered [Food] when determining start locations <in [Hill] Regions>",
-            "Considered [Food] when determining start locations <in [Grassland] Regions>",
-            "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
-        ]
-    },
+		"RGB": [0, 163, 0],
+		"uniques": [
+			"Occurs at temperature between [-0.4] and [0.1] and humidity between [0.2] and [0.4]",
+			"Occurs at temperature between [0.1] and [0.2] and humidity between [0.3] and [0.4]",
+			"Occurs at temperature between [-0.5] and [0.5] and humidity between [0.6] and [0.8]",
+			"Occurs at temperature between [-0.5] and [1] and humidity between [0.9] and [1]",
+			"Occurs at temperature between [0.9] and [1] and humidity between [0.2] and [1]",
+			"Occurs at temperature between [0.8] and [0.9] and humidity between [0.6] and [1]",
+			"Occurs at temperature between [0.7] and [0.8] and humidity between [0.7] and [1]",
+			"Occurs at temperature between [0.6] and [0.8] and humidity between [0.4] and [0.6]",
+			"Becomes [Beach] when adjacent to [Coast] <in [Featureless] tiles> <with [35]% chance>",
+			"[+3] to Fertility for Map Generation",
+			"A Region is formed with at least [30]% [Grassland] tiles, with priority [7]",
+			"A Region can not contain more [Plains] tiles than [Grassland] tiles",
+			"Considered [Desirable] when determining start locations",
+			"Considered [Food] when determining start locations <in [Jungle] Regions>",
+			"Considered [Food] when determining start locations <in [Forest] Regions>",
+			"Considered [Food] when determining start locations <in [Hill] Regions>",
+			"Considered [Food] when determining start locations <in [Grassland] Regions>",
+			"Considered [Food] when determining start locations <in [Hybrid] Regions>",
+			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+		]
+	},
 	{
 		"name": "Plains",
 		"type": "Land",
@@ -43,110 +59,98 @@
 		"production": 1,
 		"movementCost": 1,
 		"RGB": [153, 180, 51],
-		"uniques": ["Occurs at temperature between [-0.4] and [-0.1] and humidity between [0] and [0.2]",
-            "Occurs at temperature between [-0.4] and [0.4] and humidity between [0.4] and [0.6]",
-            "Occurs at temperature between [0.4] and [0.5] and humidity between [0.5] and [0.6]",
-            "Occurs at temperature between [-0.6] and [0.7] and humidity between [0.8] and [0.9]",
-            "Occurs at temperature between [-0.6] and [-0.5] and humidity between [0.9] and [1]",
-            "Occurs at temperature between [0.9] and [1] and humidity between [0] and [0.2]",
-            "Occurs at temperature between [0.8] and [0.9] and humidity between [0.2] and [0.6]",
-            "Occurs at temperature between [0.7] and [0.8] and humidity between [0.3] and [0.4]",
-            "Occurs at temperature between [0.6] and [0.8] and humidity between [0.6] and [0.7]",
-            "Occurs at temperature between [0.5] and [0.7] and humidity between [0.7] and [0.8]",
-            "[+4] to Fertility for Map Generation",
-            "A Region is formed with at least [30]% [Plains] tiles, with priority [6]",
-            "A Region can not contain more [Grassland] tiles than [Plains] tiles",
-            "Considered [Desirable] when determining start locations",
-            "Considered [Food] when determining start locations <in [Tundra] Regions>",
-            "Considered [Food] when determining start locations <in [Desert] Regions>",
-            "Considered [Food] when determining start locations <in [Hill] Regions>",
-            "Considered [Food] when determining start locations <in [Plains] Regions>",
-            "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
-        },
-        {
-                "name": "Tundra",
-		"type": "Land",
-		"food": 1,
-		"movementCost": 1,
-		"RGB": [30, 113, 69],
-		"uniques": ["Occurs at temperature between [-0.9] and [-0.6] and humidity between [0.8] and [1]",
-            "Occurs at temperature between [-0.8] and [-0.5] and humidity between [0.6] and [0.8]",
-            "Occurs at temperature between [-0.7] and [-0.4] and humidity between [0.4] and [0.6]",
-            "Occurs at temperature between [-0.6] and [-0.4] and humidity between [0.2] and [0.4]",
-            "Occurs at temperature between [-0.5] and [-0.4] and humidity between [0] and [0.2]",
-            "[+2] to Fertility for Map Generation",
-            "A Region is formed with at least [30]% [Tundra] tiles and [Snow] tiles, with priority [1]",
-            "Considered [Food] when determining start locations <in [Tundra] Regions>",
-            "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
-            "Becomes [Plains] when adjacent to [River]",
-            "Every [16] tiles with this terrain will receive a major deposit of a strategic resource."
-               ]
+		"uniques": [
+			"Occurs at temperature between [-0.4] and [-0.1] and humidity between [0] and [0.2]",
+			"Occurs at temperature between [-0.4] and [0.4] and humidity between [0.4] and [0.6]",
+			"Occurs at temperature between [0.4] and [0.5] and humidity between [0.5] and [0.6]",
+			"Occurs at temperature between [-0.6] and [0.7] and humidity between [0.8] and [0.9]",
+			"Occurs at temperature between [-0.6] and [-0.5] and humidity between [0.9] and [1]",
+			"Occurs at temperature between [0.9] and [1] and humidity between [0] and [0.2]",
+			"Occurs at temperature between [0.8] and [0.9] and humidity between [0.2] and [0.6]",
+			"Occurs at temperature between [0.7] and [0.8] and humidity between [0.3] and [0.4]",
+			"Occurs at temperature between [0.6] and [0.8] and humidity between [0.6] and [0.7]",
+			"Occurs at temperature between [0.5] and [0.7] and humidity between [0.7] and [0.8]",
+			"Becomes [Beach] when adjacent to [Coast] <in [Featureless] tiles> <with [35]% chance>",
+			"[+4] to Fertility for Map Generation",
+			"A Region is formed with at least [30]% [Plains] tiles, with priority [6]",
+			"A Region can not contain more [Grassland] tiles than [Plains] tiles",
+			"Considered [Desirable] when determining start locations",
+			"Considered [Food] when determining start locations <in [Tundra] Regions>",
+			"Considered [Food] when determining start locations <in [Desert] Regions>",
+			"Considered [Food] when determining start locations <in [Hill] Regions>",
+			"Considered [Food] when determining start locations <in [Plains] Regions>",
+			"Considered [Food] when determining start locations <in [Hybrid] Regions>",
+			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource."
+		]
 	},
 	{
 		"name": "Desert",
 		"type": "Land",
 		"movementCost": 1,
 		"RGB": [230, 172, 0],
-		"uniques": ["Occurs at temperature between [-0.1] and [0.9] and humidity between [0] and [0.2]",
-            "Occurs at temperature between [0.1] and [0.8] and humidity between [0.2] and [0.3]",
-            "Occurs at temperature between [0.2] and [0.7] and humidity between [0.3] and [0.4]",
-            "Occurs at temperature between [0.4] and [0.6] and humidity between [0.4] and [0.5]",
-            "Occurs at temperature between [0.5] and [0.6] and humidity between [0.5] and [0.7]",
-            "[+1] to Fertility for Map Generation",
-            "A Region is formed with at least [25]% [Desert] tiles, with priority [4]",
-            "Becomes [Flood plains] when adjacent to [River]",
-            "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
-            "Every [13] tiles with this terrain will receive a major deposit of a strategic resource.",
-                ]
-        },
-	{
-		"name": "Coast",
-		"type": "Water",
-		"food": 1,
-		"movementCost": 1,
-		"RGB": [70, 138, 216], //Darker87, 139, 199  Lighter59, 137, 227
-		"uniques": ["[+2] to Fertility for Map Generation",
-            "Considered [Desirable] when determining start locations <on water maps>",
-            "Every [40] tiles with this terrain will receive a major deposit of a strategic resource.",
-		"Becomes [Beach] when adjacent to [Plains]"]
+		"uniques": [
+			"Occurs at temperature between [-0.1] and [0.9] and humidity between [0] and [0.2]",
+			"Occurs at temperature between [0.1] and [0.8] and humidity between [0.2] and [0.3]",
+			"Occurs at temperature between [0.2] and [0.7] and humidity between [0.3] and [0.4]",
+			"Occurs at temperature between [0.4] and [0.6] and humidity between [0.4] and [0.5]",
+			"Occurs at temperature between [0.5] and [0.6] and humidity between [0.5] and [0.7]",
+			"[+1] to Fertility for Map Generation",
+			"A Region is formed with at least [25]% [Desert] tiles, with priority [4]",
+			"Becomes [Flood plains] when adjacent to [River]",
+			"Becomes [Beach] when adjacent to [Coast] <in [Featureless] tiles> <with [45]% chance>",
+			"Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
+			"Every [13] tiles with this terrain will receive a major deposit of a strategic resource."
+		]
 	},
 	{
-		"name": "Ocean",
-		"type": "Water",
-		"food": 1,
-		"gold": 1,
-		"movementCost": 1,
-		"RGB": [43, 87, 151],
-		"uniques": ["Becomes [Coast] when adjacent to [Beach]"]
-	},
-	{
-		"name": "Lakes",
-		"type": "Water",
-		"food": 2,
-		"gold": 1,
-		"RGB": [0, 171, 169],
-		"uniques": ["Fresh water",
-					"Considered [Food] when determining start locations",
-					"Considered [Desirable] when determining start locations","Becomes [Coast] when adjacent to [Coast]"],
-        "civilopediaText": [
-            {"text": "Lakes provide fresh water to adjacent tiles, allowing farming where it would otherwise not be possible (similar to Rivers and Oases)."},
-            {"text": "Rivers", "link":"Terrain/River"},
-            {"text": "Oasis", "link":"Terrain/Oasis"},
-            {"text": "Farm", "link":"Improvement/Farm"},
-            {"text": "Civil Service", "link":"Technology/Civil Service"},
-            {"text": "Fertilizer", "link":"Technology/Fertilizer"}
-        ]
+		"name": "Volcano",
+		"type": "TerrainFeature",
+		"occursOn": ["Mountain"],
+		"impassable": true,
+		"unbuildable": true,
+		"defenceBonus": 0.25,
+		"RGB": [156, 52, 30],
+		"uniques": [
+			"Rare feature",
+			"Rough terrain",
+			"Has an elevation of [2] for visibility calculations",
+			"Always Fertility [-2] for Map Generation"
+		],
+		"civilopediaText": [
+			{
+				"text": "A smouldering peak. Volcanoes are rare: only a handful of Mountain tiles on a map become one."
+			},
+			{
+				"text": "The ash makes the surrounding land fertile: every land tile next to a Volcano yields +1 Food."
+			},
+			{
+				"text": "Like Mountains, Volcanoes are impassable."
+			}
+		]
 	},
 	{
 		"name": "Fallout",
 		"type": "TerrainFeature",
 		"movementCost": 2,
 		"unbuildable": true,
-		"uniques": ["Nullifies all other stats this tile provides", "Doesn't generate naturally","Units ending their turn on this terrain take [20] damage"],
-		// For map editor only - the generator won't place it without code or enabling uniques
-		// If the map generator is ever updated to always take these into account, it should also take the "Doesn't generate naturally" unique into account
-		"occursOn": ["Grassland","Plains","Desert","Tundra","Snow","Forest","Jungle","Hill","Flood plains","Marsh","Oasis"],
-		"defenceBonus": -0.50
+		"uniques": [
+			"Nullifies all other stats this tile provides",
+			"Doesn't generate naturally",
+			"Units ending their turn on this terrain take [20] damage"
+		],
+		"occursOn": [
+			"Grassland",
+			"Plains",
+			"Desert",
+			"Tundra",
+			"Snow",
+			"Forest",
+			"Jungle",
+			"Hill",
+			"Flood plains",
+			"Marsh",
+			"Oasis"
+		],
+		"defenceBonus": -0.5
 	}
 ]

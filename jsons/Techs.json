@@ -1,5 +1,5 @@
 [
-  {
+	{
 		"columnNumber": 11,
 		"era": "Modern era",
 		"techCost": 3100,
@@ -9,26 +9,29 @@
 			{
 				"name": "Geoengineering",
 				"row": 1,
-				"prerequisites": ["Biology", "Electricity"], 
+				"prerequisites": ["Biology", "Electricity"],
 				"quote": "Geoengineering can be a tool for innovation, helping us build a better and more resilient planet. - Ken Caldeira"
 			},
-      {
+			{
 				"name": "Refrigeration",
 				"row": 2,
-				"prerequisites": ["Biology", "Electricity"], 
-				"quote": "'And homeless near a thousand homes I stood, and near a thousand tables pined and wanted food.' - William Wordsworth"
+				"prerequisites": ["Biology", "Electricity"],
+				"quote": "'And homeless near a thousand homes I stood, and near a thousand tables pined and wanted food.' - William Wordsworth",
+				"uniques": ["[-75]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Radio",
 				"row": 3,
 				"prerequisites": ["Electricity"],
-				"quote": "'The whole country was tied together by radio. We all experienced the same heroes and comedians and singers. They were giants.' - Woody Allen"
+				"quote": "'The whole country was tied together by radio. We all experienced the same heroes and comedians and singers. They were giants.' - Woody Allen",
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Replaceable Parts",
 				"row": 4,
-				"prerequisites": ["Electricity","Steam Power"],
-				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford"
+				"prerequisites": ["Electricity", "Steam Power"],
+				"quote": "'Nothing is particularly hard if you divide it into small jobs.' - Henry Ford",
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Flight",
@@ -39,8 +42,9 @@
 			{
 				"name": "Railroads",
 				"row": 8,
-				"prerequisites": ["Steam Power","Dynamite"],
-				"quote": "'The introduction of so powerful an agent as steam to a carriage on wheels will make a great change in the situation of man.' - Thomas Jefferson"
+				"prerequisites": ["Steam Power", "Dynamite"],
+				"quote": "'The introduction of so powerful an agent as steam to a carriage on wheels will make a great change in the situation of man.' - Thomas Jefferson",
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			}
 		]
 	},
@@ -54,14 +58,15 @@
 			{
 				"name": "Urbanization",
 				"row": 1,
-				"prerequisites": ["Geoengineering"], 
+				"prerequisites": ["Geoengineering"],
 				"quote": "Cities have the capability of providing something for everybody, only because, and only when, they are created by everybody."
 			},
 			{
 				"name": "Plastics",
 				"row": 3,
-				"prerequisites": ["Radio","Replaceable Parts"],
-				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate"
+				"prerequisites": ["Radio", "Replaceable Parts"],
+				"quote": "'Ben, I want to say one word to you, just one word: plastics.' - Buck Henry and Calder Willingham, The Graduate",
+				"uniques": ["[+200]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Electronics",
@@ -79,7 +84,8 @@
 				"name": "Combustion",
 				"row": 8,
 				"prerequisites": ["Railroads"],
-				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
+				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein",
+				"uniques": ["[-50]% weight to this choice for AI decisions"]
 			}
 		]
 	},
@@ -93,27 +99,29 @@
 			{
 				"name": "Pharmaceuticals",
 				"row": 2,
-				"prerequisites": ["Plastics","Refrigeration","Urbanization"],
+				"prerequisites": ["Plastics", "Refrigeration", "Urbanization"],
 				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero"
 			},
 			{
 				"name": "Atomic Theory",
 				"row": 4,
-				"prerequisites": ["Plastics","Electronics"],
-				"quote": "'The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.' - Albert Einstein"
+				"prerequisites": ["Plastics", "Electronics"],
+				"quote": "'The unleashed power of the atom has changed everything save our modes of thinking, and we thus drift toward unparalleled catastrophes.' - Albert Einstein",
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Radar",
 				"row": 6,
-				"prerequisites": ["Ballistics","Electronics"],
-				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift"
+				"prerequisites": ["Ballistics", "Electronics"],
+				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift",
+				"uniques": ["[+100]% weight to this choice for AI decisions"]
 			},
 			{
 				"name": "Combined Arms",
 				"row": 8,
-				"prerequisites": ["Ballistics","Combustion"],
+				"prerequisites": ["Ballistics", "Combustion"],
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
 			}
 		]
-	},
+	}
 ]

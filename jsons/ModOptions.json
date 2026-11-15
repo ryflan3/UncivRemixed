@@ -1,5 +1,7 @@
 {
-	 "nationsToRemove":["Japan","Denmark","Sweden"],
-	 "unitsToRemove": ["Bowman","Tercio"]
-	 "constants":{"cityWorkRange":4}
+	"isBaseRuleset": false,
+	"nationsToRemove": ["Japan", "Denmark", "Sweden", "Jerusalem", "Vatican City"],
+	"unitsToRemove": ["Bowman", "Tercio", "Samurai", "Zero", "Carolean", "Hakkapeliitta"],
+	"constants": {"cityWorkRange": 4},
+	"uniques": ["Mod requires [Civ V - Gods & Kings]"]
 }

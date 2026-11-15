@@ -1,5 +1,6 @@
 {
 	"ruleVariants": {
-		"Beach+Citadel": ["Beach","Sand Citadel"],
+		"Beach+Citadel": ["Beach", "Sand Citadel"],
+		"Mountain+Volcano": ["Volcano"]
 	}
 }

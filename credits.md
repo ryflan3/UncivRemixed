@@ -1,3 +1,18 @@
+# Art credits
+
+## Made for this mod
+
+The icons for the 14 new civilizations, the 26 new unique units, Thermae, Geoengineering and the Exploration,
+Aesthetics and National Defense policy trees are original art drawn for UncivRemixed. Vector sources: `ArtSource/`.
+
+The Volcano tiles and the FantasyHex Beach tile are recoloured and repainted from the Mountain and Desert tiles of
+Unciv's HexaRealm and FantasyHex tilesets. The HexaRealm Beach, Shipyard, Resort and Sand Citadel tiles come from
+hachchch's coastal mod.
+
+## Third-party icons
+
+Some entries below are for nation and unit icons that the art above has since replaced.
+
 All the following are from [the Noun Project](https://thenounproject.com) licenced under either Creative Commons or Public Domain
 
 * [vikings] https://thenounproject.com/icon/vikings-4761687/ by nakals
