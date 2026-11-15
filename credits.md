@@ -4,9 +4,9 @@
 
 Original art drawn for UncivRemixed, with vector sources in `ArtSource/`:
 
-- emblems and leader portraits for the 16 new civilizations
-- icons for the 30 new unique units and the 10 unique improvements
-- Thermae, Candi, Qaggiq, Reservoir, Apartment Block, Geothermal Plant, Bullion, the Geoengineering and
+- emblems and leader portraits for the 19 new civilizations
+- icons for the 33 new unique units and the 13 unique improvements
+- Thermae, Candi, Qaggiq, Private Bank, Baray, Prasat, Casa da India, Reservoir, Apartment Block, Geothermal Plant, Bullion, the Geoengineering and
   Geothermal Energy technologies and the Exploration, Aesthetics and National Defense policy trees
 
 The Volcano tile, the four natural wonder tiles and the FantasyHex Beach tile are repainted from the Mountain,

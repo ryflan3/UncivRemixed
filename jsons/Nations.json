@@ -1473,7 +1473,7 @@
 			"[-10]% Strength <for [Military] units> <when below [30] [Faith]>"
 		],
 		"cities": [
-			"Acre", "Cyprus", "Rhodes", "Malta", "Lisbon", "Venice", "Tortosa", "Montfort", "Arwad",
+			"Acre", "Cyprus", "Rhodes", "Malta", "Almourol", "La Rochelle", "Tortosa", "Montfort", "Arwad",
 			"Château Pèlerin", "Ascalon", "Beirut", "Jaffa"
 		],
 		"spyNames": ["Brother Bertrand", "Brother Guy", "Brother Hugh", "Brother Raymond", "Brother Geoffrey"]
@@ -2262,5 +2262,112 @@
 			"Ikpiarjuk", "Taloyoak", "Naujaat", "Kangiqtugaapik", "Salluit", "Puvirnituq", "Nain"
 		],
 		"spyNames": ["Nanuq", "Siku", "Aput", "Tulugaq", "Amaruq", "Ukaliq", "Sedna", "Tiriaq", "Qimmiq", "Nukka"]
+	},
+	{
+		"name": "Swiss Confederacy",
+		"leaderName": "Henri Dufour",
+		"adjective": ["Swiss"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Economic",
+		"personality": "Henri Dufour",
+		"startIntroPart1": "Greetings, General Dufour! In 1291 three Alpine valleys swore to defend one another, and within two centuries their pikemen had broken the knights of Habsburg and Burgundy. Europe learned to hire the Swiss rather than fight them. After 1515 the Confederacy chose another road: armed neutrality, sound money and a citizen army that every neighbour thought twice about testing. You held that course through civil war in 1847 with barely a hundred dead, mapped every valley of the country, and helped found the Red Cross.",
+		"startIntroPart2": "General, the cantons look to you again. Around you the great powers scheme and bleed; behind the mountains your people prosper. Can you keep the peace, fill the vaults and make certain that no one who marches in ever marches out? Will your new empire shine through the ages of history?",
+		"declaringWar": "This gives me no pleasure. You have made neutrality impossible.",
+		"attacked": "Every man in these valleys keeps a rifle at home. You will meet all of them.",
+		"defeated": "The cantons are taken, but the oath of 1291 was sworn by free men. It will be sworn again.",
+		"denounced": "We take no side, including yours. I suggest you remember where you keep your money.",
+		"introduction": "Henri Dufour, at your service. The Confederacy wishes to be on good terms with everyone, and is prepared to be on bad terms with anyone.",
+		"neutralHello": "Good day.",
+		"hateHello": "State your business.",
+		"tradeRequest": "A sound arrangement benefits both parties. Please consider this one.",
+		"outerColor": [200, 30, 36],
+		"innerColor": [255, 255, 255],
+		"favoredReligion": "Protestantism",
+		"uniqueName": "Armed Neutrality",
+		"uniques": [
+			"[+15]% [Gold] [in all cities] <when not at war>",
+			"[Gold] cost of purchasing [Military] units [-33]%",
+			"[+25]% Strength for cities",
+			"[-25]% Strength <for [Military] units> <when fighting in [Foreign Land] tiles>"
+		],
+		"cities": [
+			"Bern", "Lucerne", "Schwyz", "Altdorf", "Stans", "Basel", "Fribourg", "Solothurn", "Schaffhausen",
+			"Appenzell", "St. Gallen", "Chur", "Lausanne", "Lugano", "Winterthur", "Thun", "Biel", "Neuchatel",
+			"Sion", "Zug", "Glarus", "Bellinzona", "Aarau", "Davos", "Interlaken", "Locarno", "Sarnen",
+			"Frauenfeld", "Liestal", "Herisau"
+		],
+		"spyNames": ["Urs", "Heidi", "Reto", "Beat", "Regula", "Jurg", "Vreni", "Kaspar", "Anneli", "Tell"]
+	},
+	{
+		"name": "Khmer",
+		"leaderName": "Suryavarman II",
+		"adjective": ["Khmer"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Suryavarman II",
+		"startIntroPart1": "Greetings, Suryavarman, king of kings! From the ninth century the Khmer turned the monsoon into an empire: canals and vast reservoirs, the barays, held the rains and fed rice fields that supported the largest city of the pre-industrial world. At its heart you raised Angkor Wat, the greatest religious monument ever built, a mountain of stone aligned to the sun. Close to a million people lived around Angkor when London held a few tens of thousands.",
+		"startIntroPart2": "Great king, the waters are yours to command once more. Others scatter towns across the land; you will raise one city so great that the rest of the world seems a village. Can you make the rains serve you and the stone speak your name? Will your new empire shine through the ages of history?",
+		"declaringWar": "You have troubled the peace of Angkor. My elephants are already on the road.",
+		"attacked": "You march on the city of the gods? Count your soldiers. Then count my people.",
+		"defeated": "The reservoirs will silt up and the forest will take the towers. But they will stand long after your name is forgotten.",
+		"denounced": "Small kings shout. Great ones build.",
+		"introduction": "I am Suryavarman, protected by the sun, lord of Angkor. You may look upon my city. Take your time; there is a great deal of it.",
+		"neutralHello": "Welcome to Angkor.",
+		"hateHello": "You are not welcome here.",
+		"tradeRequest": "Angkor has more than it can use. Perhaps you have something we lack.",
+		"outerColor": [124, 30, 74],
+		"innerColor": [255, 200, 60],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Grand Barays",
+		"uniques": [
+			"[-33]% Unhappiness from [Population] [in capital]",
+			"[+15]% growth [in capital]",
+			"[+1 Production] per [4] population [in capital]",
+			"Cannot build [Settler] units <when number of [Cities] is more than [3]>"
+		],
+		"cities": [
+			"Angkor", "Hariharalaya", "Koh Ker", "Mahendraparvata", "Banteay Chhmar", "Preah Vihear", "Phimai",
+			"Sambor Prei Kuk", "Vyadhapura", "Lovek", "Oudong", "Phnom Penh", "Battambang", "Beng Mealea",
+			"Preah Khan", "Wat Phu", "Sdok Kok Thom", "Banteay Srei", "Ta Prohm", "Kampong Thom"
+		],
+		"spyNames": ["Jaya", "Indra", "Soma", "Kaundinya", "Devi", "Sophea", "Vanna", "Bopha", "Dara", "Rithy"]
+	},
+	{
+		"name": "Portugal",
+		"leaderName": "Henry the Navigator",
+		"adjective": ["Portuguese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		"personality": "Henry the Navigator",
+		"startIntroPart1": "Greetings, Infante Henrique! A small kingdom on the edge of Europe, with barely a million people, Portugal could not conquer the world, so it went around it. Under your patronage captains pushed down the African coast year after year; within decades of your death Dias had rounded the Cape, da Gama had reached India and Cabral had touched Brazil. What followed was the first empire to span the globe, held together not by provinces but by feitorias: fortified trading posts strung from Brazil to Macau.",
+		"startIntroPart2": "Prince, the charts are blank again beyond the headlands. You have few people and little land, but you have ships, and every empty shore is a harbour waiting for a warehouse. Can you bind the seas together with trade where others would need armies? Will your new empire shine through the ages of history?",
+		"declaringWar": "I had hoped to trade with you. Now I shall simply sail past your wreckage.",
+		"attacked": "You attack a nation of sailors? Our homes are wherever our ships are.",
+		"defeated": "The ships are burned, but the charts are drawn. Others will follow them.",
+		"denounced": "A pity. Your harbour would have made a fine stop on the way to somewhere better.",
+		"introduction": "I am Henrique, Infante of Portugal. I am told the world ends just beyond that cape. I intend to find out.",
+		"neutralHello": "Fair winds to you.",
+		"hateHello": "An ill wind brings you here.",
+		"tradeRequest": "My captains have brought this from very far away. I think you will find it worth your while.",
+		"outerColor": [0, 90, 60],
+		"innerColor": [250, 210, 50],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Carreira da India",
+		"uniques": [
+			"[+2 Gold] <for every [Owned [Portuguese Outpost] Tiles]>",
+			"[+2 Gold] <for every [Owned [{Portuguese Outpost} {All Road}] Tiles]>",
+			"[+1 Gold] <for every [Owned [Feitoria Port] Tiles]>",
+			"[+1 Gold] from [Water resource] tiles [in all cities]",
+			"[-20]% Production when constructing [{Military} {Land}] units [in all cities]"
+		],
+		"cities": [
+			"Lisbon", "Porto", "Coimbra", "Braga", "Evora", "Faro", "Guimaraes", "Lagos", "Sagres", "Setubal",
+			"Aveiro", "Viseu", "Leiria", "Santarem", "Tomar", "Funchal", "Ponta Delgada", "Angra", "Ceuta",
+			"Goa", "Malacca", "Luanda", "Salvador", "Ormuz", "Elmina", "Sofala", "Cochin", "Mazagan", "Beja",
+			"Viana"
+		],
+		"spyNames": [
+			"Vasco", "Ines", "Bartolomeu", "Leonor", "Diogo", "Beatriz", "Afonso", "Catarina", "Nuno", "Isabel"
+		]
 	}
 ]

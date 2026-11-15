@@ -544,6 +544,59 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
+		"name": "Reislaufer",
+		"unitType": "Sword",
+		"replaces": "Pikeman",
+		"uniqueTo": "Swiss Confederacy",
+		"movement": 2,
+		"strength": 16,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"obsoleteTech": "Metallurgy",
+		"upgradesTo": "Lancer",
+		"uniques": [
+			"[+50]% Strength <vs [Mounted] units>",
+			"[+15]% Strength <when adjacent to a [Reislaufer] unit>",
+			"Can move immediately once bought"
+		],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Domrey",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 14,
+		"rangedStrength": 14,
+		"cost": 120,
+		"requiredTech": "Physics",
+		"obsoleteTech": "Chemistry",
+		"upgradesTo": "Cannon",
+		"uniques": [
+			"[+200]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"[-1] Sight",
+			"Never appears as a Barbarian unit"
+		],
+		"attackSound": "throw",
+		"uniqueTo": "Khmer",
+		"replaces": "Trebuchet"
+	},
+	{
+		"name": "Nau",
+		"unitType": "Melee Water",
+		"movement": 5,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["Withdraws before melee combat <with [80]% chance>", "[+2] Sight"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon",
+		"uniqueTo": "Portugal",
+		"replaces": "Caravel"
+	},
+	{
 		"name": "Russian Winter Guard",
 		"unitType": "Gunpowder",
 		"replaces": "Great War Infantry",

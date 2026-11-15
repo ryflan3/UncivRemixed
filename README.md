@@ -4,15 +4,18 @@ An extension mod for [Unciv](https://github.com/yairm210/Unciv) on the **Civ V -
 Rebuilt for Unciv 5.0 (see [CHANGELOG.md](CHANGELOG.md)).
 
 Every civilization gets a wider ability with several upsides and one real drawback, so each one plays differently.
-Sixteen new civilizations join the base roster, each with three to five unique units, buildings or improvements.
+Nineteen new civilizations join the base roster, each with three to five unique units, buildings or improvements.
 
 ## What is in it
 
 **Civilizations**
 
-- 16 new civs: Tokugawa Shogunate, Sparta, House of Borgia, Red Flag Pirate Confederation, Norseman Vikings,
+- 19 new civs: Tokugawa Shogunate, Sparta, House of Borgia, Red Flag Pirate Confederation, Norseman Vikings,
   Ancient Israel, Scottish Clans, The Order of Assassins, Zulu, Gran Colombia, Cherokee, Knights Templar,
-  Safavid Dynasty, Venice, Indonesia and the Inuit. Japan, Denmark and Sweden are replaced by Tokugawa and the Vikings.
+  Safavid Dynasty, Venice, Indonesia, the Inuit, the Swiss Confederacy, the Khmer and Portugal.
+  Japan, Denmark and Sweden are replaced by Tokugawa and the Vikings. 50 playable civs in total.
+- Portugal builds **Feitorias**: trading outposts on land nobody owns. Each takes 16 turns, Portugal can hold 12,
+  and each one pays Gold into the treasury. Details in the changelog.
 - All 31 remaining base-game civs have an extended ability and many gain an extra unique unit or building.
 - A custom AI personality for every leader.
 
@@ -68,8 +71,8 @@ Both rates are single numbers, so they are easy to change if you want more or le
 
 ## Art
 
-Original art made for this mod: emblems and leader portraits for the 16 new civs, icons for 30 unique units and
-10 unique improvements, and map tiles for the Volcano and the four natural wonders. The vector sources are in
+Original art made for this mod: emblems and leader portraits for the 19 new civs, icons for 33 unique units and
+13 unique improvements, and map tiles for the Volcano and the four natural wonders. The vector sources are in
 `ArtSource/`; the game reads the PNGs in `Images/`, packed into `game.png` / `game.atlas`.
 Unciv on desktop repacks the atlas by itself whenever a file in `Images/` changes.
 

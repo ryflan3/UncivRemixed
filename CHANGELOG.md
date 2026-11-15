@@ -1,5 +1,54 @@
 # Changelog
 
+## 2.3 — Swiss Confederacy, Khmer and Portugal
+
+Three civilizations built around how they hold land rather than what they fight with.
+
+**Swiss Confederacy** (Henri Dufour) — *Armed Neutrality*. Small, rich and very hard to invade.
+
+- +15% Gold in all cities while at peace. Military units cost 33% less Gold to buy. Cities have +25% Strength.
+- Drawback: military units fight at -25% Strength on foreign land, so the Swiss defend well and conquer badly.
+- Reislaufer (Pikeman; +15% Strength next to another Reislaufer, can move on the turn it is bought),
+  Private Bank (Bank; +3 Gold and 1 extra Bullion per turn, which speeds up an Economic victory),
+  Alpine Pasture (improvement on Hills next to a Mountain; +1 Food, +1 Gold, +1 Food at Fertilizer).
+
+**Khmer** (Suryavarman II) — *Grand Barays*. One enormous capital and very few other cities.
+
+- In the capital: -33% Unhappiness from population, +15% growth and +1 Production per 4 population.
+- Drawback: no more Settlers once the Khmer have 4 cities. Conquered cities still count as normal.
+- Domrey (Trebuchet; 14 Strength, needs no set-up before firing), Baray (Aqueduct; +2 Food, +1 Faith),
+  Prasat (Temple; +1 Faith per 4 population in the city).
+
+**Portugal** (Henry the Navigator) — *Carreira da India*. A trading empire of outposts on land nobody owns.
+
+- Every Feitoria pays +2 Gold to the treasury, +2 more if it has a road or railroad on its tile, and a
+  Feitoria Port pays +1 on top. Sea resources yield +1 Gold.
+- Drawback: -20% Production towards land military units.
+- Nau (Caravel; 5 movement, +2 Sight), Casa da India (Harbor; +3 Gold).
+
+### The Feitoria
+
+- A Worker builds it on land **no one owns**, outside your borders, from Compass. Not on city-state or rival land.
+- It takes **16 turns** to build (a Trading post takes about 7), so each one is a real commitment of a Worker.
+- Portugal can hold **12** in total: Feitorias and Feitoria Ports are counted together.
+- When finished it claims its own tile for the nearest Portuguese city. It claims nothing around it.
+- It yields +1 Gold as a tile, gives +25% defence to a unit standing on it and cannot be pillaged.
+- From Navigation a coastal Feitoria can be rebuilt as a **Feitoria Port** (10 turns): +2 Gold as a tile,
+  +50% defence, and the extra treasury income above.
+- A Feitoria belongs to the city that holds its tile. If that city is captured, the post goes with it.
+
+Limits of the current engine, so you know what to expect:
+
+- The post attaches to the nearest city, not to the city that trained the Worker.
+- A captured city hands its posts to the conqueror; they are not destroyed. Only Portugal earns the treasury income.
+- The cap is checked when a Worker starts building. Several Workers started on the same turn can end one or two over.
+- The AI rarely sends Workers outside its borders, so an AI Portugal will build few of them.
+
+### Other changes
+
+- Knights Templar: the cities Lisbon and Venice are renamed Almourol and La Rochelle, since Portugal and Venice
+  now have those capitals.
+
 ## 2.2 — Indonesia, the Inuit, technology and religion
 
 ### New civilizations
@@ -769,10 +818,13 @@ Only changed lines are listed. "removed" lines were either broken in current Unc
   - added: `[-33]% Strength <vs cities> <when attacking>`
   - added: `Ignores Zone of Control`
 - **Norwegian Ski Infantry** (Norseman Vikings) — newly assigned: the base game unit, re-homed from a removed civ
-- **Kris Swordsman** (Indonesia) — newly assigned: the base game unit, re-homed from a removed civ
-- **Jong** (Indonesia) — newly assigned: the base game unit, re-homed from a removed civ
-- **Dog Sled** (Inuit) — newly assigned: the base game unit, re-homed from a removed civ
-- **Umiak** (Inuit) — newly assigned: the base game unit, re-homed from a removed civ
+- **Kris Swordsman** (Indonesia) — new unit, replaces Swordsman
+- **Jong** (Indonesia) — new unit, replaces Caravel
+- **Dog Sled** (Inuit) — new unit, replaces Scout
+- **Umiak** (Inuit) — new unit, replaces Trireme
+- **Reislaufer** (Swiss Confederacy) — new unit, replaces Pikeman
+- **Domrey** (Khmer) — new unit, replaces Trebuchet
+- **Nau** (Portugal) — new unit, replaces Caravel
 
 The mod no longer ships its own copies of these base-game units, so they use the current Unciv definition again (the old copies were stale and mostly +2 Strength over the base game):
 

@@ -271,6 +271,53 @@
 		]
 	},
 	{
+		"name": "Alpine Pasture",
+		"uniqueTo": "Swiss Confederacy",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"food": 1,
+		"gold": 1,
+		"turnsToBuild": 6,
+		"techRequired": "Animal Husbandry",
+		"uniques": [
+			"Must be next to [Mountain]",
+			"[+1 Food] <after discovering [Fertilizer]>",
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		]
+	},
+	{
+		"name": "Feitoria",
+		"uniqueTo": "Portugal",
+		"terrainsCanBeBuiltOn": ["Grassland", "Plains", "Desert", "Tundra", "Snow", "Hill", "Beach"],
+		"gold": 1,
+		"turnsToBuild": 16,
+		"techRequired": "Compass",
+		"uniques": [
+			"Portuguese Outpost",
+			"Can be built outside your borders",
+			"Can only be built on [Unowned] tiles",
+			"Only available <when number of [Owned [Portuguese Outpost] Tiles] is less than [12]>",
+			"Gain control over [Unowned] tiles in a [0]-tile radius",
+			"Gives a defensive bonus of [25]%",
+			"Unpillagable",
+			"Will not be replaced by automated units"
+		]
+	},
+	{
+		"name": "Feitoria Port",
+		"uniqueTo": "Portugal",
+		"terrainsCanBeBuiltOn": ["Grassland", "Plains", "Desert", "Tundra", "Snow", "Hill", "Beach"],
+		"gold": 2,
+		"turnsToBuild": 10,
+		"techRequired": "Navigation",
+		"uniques": [
+			"Portuguese Outpost",
+			"Can only be built on [{Feitoria} {Coastal}] tiles",
+			"Gives a defensive bonus of [50]%",
+			"Unpillagable",
+			"Will not be replaced by automated units"
+		]
+	},
+	{
 		"name": "Canal",
 		"terrainsCanBeBuiltOn": ["Plains", "Grassland", "Desert", "Tundra", "Flood plains", "Beach"],
 		"turnsToBuild": 20,
