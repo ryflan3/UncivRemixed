@@ -477,6 +477,73 @@
 		"attackSound": "cavalry"
 	},
 	{
+		"name": "Kris Swordsman",
+		"unitType": "Sword",
+		"replaces": "Swordsman",
+		"uniqueTo": "Indonesia",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"obsoleteTech": "Steel",
+		"upgradesTo": "Longswordsman",
+		"uniques": ["[+15]% Strength <when attacking>", "Heals [10] damage if it kills a unit"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Jong",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 22,
+		"cost": 120,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": [
+			"[+1] Sight",
+			"Withdraws before melee combat <with [80]% chance>",
+			"May heal outside of friendly territory"
+		],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon",
+		"uniqueTo": "Indonesia",
+		"replaces": "Caravel"
+	},
+	{
+		"name": "Dog Sled",
+		"unitType": "Scout",
+		"replaces": "Scout",
+		"uniqueTo": "Inuit",
+		"movement": 3,
+		"strength": 5,
+		"cost": 25,
+		"requiredTech": "Agriculture",
+		"obsoleteTech": "Scientific Theory",
+		"uniques": [
+			"May upgrade to [Archer] through ruins-like effects",
+			"Never appears as a Barbarian unit",
+			"Double movement in [Snow]",
+			"Double movement in [Tundra]"
+		],
+		"promotions": ["Ignore terrain cost"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Umiak",
+		"unitType": "Melee Water",
+		"replaces": "Trireme",
+		"uniqueTo": "Inuit",
+		"movement": 4,
+		"strength": 10,
+		"cost": 40,
+		"requiredTech": "Sailing",
+		"obsoleteTech": "Astronomy",
+		"upgradesTo": "Caravel",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit", "Can enter ice tiles"],
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Russian Winter Guard",
 		"unitType": "Gunpowder",
 		"replaces": "Great War Infantry",

@@ -616,8 +616,12 @@
 		"uniques": [
 			"Only available <when [Religious] Victory is enabled>",
 			"Only available <when religion is enabled>",
-			"Cannot be hurried",
-			"Can only be built <in [Holy] cities>"
+			"Only available <after enhancing a religion>",
+			"Can only be built <in [Holy] cities>",
+			"Unbuildable",
+			"Can be purchased for [2500] [Faith] [in holy cities]",
+			"Unsellable",
+			"Triggers a global alert upon completion"
 		]
 	},
 	{
@@ -745,6 +749,53 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
+	},
+	{
+		"name": "Reservoir",
+		"food": 2,
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"requiredTech": "Geoengineering",
+		"uniques": ["Must be on [River]", "[+10]% growth [in this city]"]
+	},
+	{
+		"name": "Apartment Block",
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"requiredBuilding": "Aqueduct",
+		"requiredTech": "Urbanization",
+		"uniques": ["[+15]% growth [in this city]", "[-10]% Unhappiness from [Population] [in this city]"]
+	},
+	{
+		"name": "Geothermal Plant",
+		"production": 4,
+		"science": 2,
+		"percentStatBonus": {"production": 15},
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"requiredTech": "Geothermal Energy",
+		"uniques": ["Must have an owned [Volcanic] within [3] tiles"]
+	},
+	{
+		"name": "Candi",
+		"replaces": "Garden",
+		"uniqueTo": "Indonesia",
+		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology",
+		"faith": 2
+	},
+	{
+		"name": "Qaggiq",
+		"replaces": "Monument",
+		"uniqueTo": "Inuit",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"],
+		"happiness": 1
 	},
 	{
 		"name": "Parthenon",

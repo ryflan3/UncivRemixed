@@ -111,6 +111,7 @@
 		"defenceBonus": 0.25,
 		"RGB": [156, 52, 30],
 		"uniques": [
+			"Volcanic",
 			"Rare feature",
 			"Rough terrain",
 			"Has an elevation of [2] for visibility calculations",
@@ -135,6 +136,7 @@
 		"science": 3,
 		"occursOn": ["Grassland", "Plains"],
 		"uniques": [
+			"Volcanic",
 			"Must be adjacent to [1] to [3] [Coast] tiles",
 			"Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [0] [Desert] tiles",

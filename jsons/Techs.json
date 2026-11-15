@@ -97,6 +97,12 @@
 		"wonderCost": 1250,
 		"techs": [
 			{
+				"name": "Geothermal Energy",
+				"row": 1,
+				"prerequisites": ["Urbanization"],
+				"quote": "'Civilization exists by geological consent, subject to change without notice.' - Will Durant"
+			},
+			{
 				"name": "Pharmaceuticals",
 				"row": 2,
 				"prerequisites": ["Plastics", "Refrigeration", "Urbanization"],

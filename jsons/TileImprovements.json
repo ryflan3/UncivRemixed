@@ -90,7 +90,7 @@
 		"culture": 1,
 		"gold": 2,
 		"turnsToBuild": 7,
-		"techRequired": "Refrigeration",
+		"techRequired": "Urbanization",
 		"uniques": [
 			"[+1 Gold] <after discovering [Ecology]>",
 			"[+2 Culture] <after discovering [Globalization]>",
@@ -166,7 +166,7 @@
 		"techRequired": "Construction",
 		"uniques": [
 			"Must be next to [Mountain]",
-			"[+1 Culture] for each adjacent [Volcano]",
+			"[+1 Culture] for each adjacent [Volcanic]",
 			"[+1 Gold] <after discovering [Archaeology]>",
 			"Pillaging this improvement yields approximately [+15 Gold]"
 		],
@@ -241,6 +241,34 @@
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		],
 		"shortcutKey": "Y"
+	},
+	{
+		"name": "Kampung",
+		"uniqueTo": "Indonesia",
+		"terrainsCanBeBuiltOn": ["Beach", "Grassland", "Plains", "Desert"],
+		"food": 1,
+		"turnsToBuild": 5,
+		"techRequired": "Pottery",
+		"uniques": [
+			"Can only be built on [Coastal] tiles",
+			"[+1 Food] <after discovering [Civil Service]>",
+			"[+1 Gold] <after discovering [Compass]>",
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		],
+		"shortcutKey": "K"
+	},
+	{
+		"name": "Inuksuk",
+		"uniqueTo": "Inuit",
+		"terrainsCanBeBuiltOn": ["Snow", "Tundra"],
+		"culture": 1,
+		"faith": 1,
+		"turnsToBuild": 4,
+		"techRequired": "Masonry",
+		"uniques": [
+			"[+1 Culture] <after discovering [Archaeology]>",
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		]
 	},
 	{
 		"name": "Canal",

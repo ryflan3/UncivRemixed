@@ -14,6 +14,10 @@
 		"Nationalism",
 		"Communism"
 	],
-	"constants": {"cityWorkRange": 4},
+	"constants": {
+		"cityWorkRange": 4,
+		"minimalCityDistance": 4,
+		"minimalCityDistanceOnDifferentContinents": 3
+	},
 	"uniques": ["Mod requires [Civ V - Gods & Kings]"]
 }

@@ -931,7 +931,8 @@
 			"Gain an extra spy <upon entering the [Medieval era]>",
 			"[-33]% enemy spy effectiveness [in all cities]",
 			"Land units may cross [Mountain] tiles after the first [Great General] is earned",
-			"[-10]% [Science] [in all cities]"
+			"Earn [100]% of killed [Military] unit's [Strength] as [Gold]",
+			"[-10]% [Science] [in all cities] <when espionage is enabled>"
 		],
 		"cities": [
 			"Alamut", "Masyaf", "Girdkuh", "Lambsar", "Tabas", "Qain", "Shahdiz", "Darband", "Sa'adatabad",
@@ -2191,5 +2192,75 @@
 			"Ibrahim", "Bayezid", "Sokollu", "Mahmut", "Uveys", "Roxelana", "Safiye", "Hafsa", "Kosem",
 			"Nurbanu"
 		]
+	},
+	{
+		"name": "Indonesia",
+		"leaderName": "Gajah Mada",
+		"adjective": ["Indonesian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Gajah Mada",
+		"startIntroPart1": "Greetings, Gajah Mada, Mahapatih of Majapahit! In 1336 you swore the Palapa Oath: to taste no spice until all of Nusantara was joined under one crown. From the court at Trowulan on Java your fleets carried that promise across thousands of islands, from Sumatra to the Spice Islands, and for a century Majapahit was the greatest sea power in Southeast Asia.",
+		"startIntroPart2": "Great minister, the islands lie scattered once more, and the volcanoes still smoke above the rice terraces. Will you take up your oath a second time and bind the archipelago into one realm? Will your new empire shine through the ages of history?",
+		"declaringWar": "I swore an oath to unite these islands. You are standing on one of them.",
+		"attacked": "You attack Majapahit? Then you have chosen which island falls next.",
+		"defeated": "The oath is broken, and so am I. May a better servant finish what I began.",
+		"denounced": "I have been called worse at my own court. It changed nothing there either.",
+		"introduction": "I am Gajah Mada, first minister of Majapahit. Speak plainly; I have an archipelago to unite.",
+		"neutralHello": "Welcome.",
+		"hateHello": "You again.",
+		"tradeRequest": "The ships of Majapahit carry more than spice. Consider this offer.",
+		"outerColor": [110, 210, 217],
+		"innerColor": [158, 46, 28],
+		"favoredReligion": "Hinduism",
+		"uniqueName": "Palapa Oath",
+		"uniques": [
+			"[+2 Gold, +1 Culture] [in all cities] <on foreign continents>",
+			"[+1 Happiness] [in all cities] <on foreign continents>",
+			"[+1 Faith] from [Land] tiles [in all cities] <in tiles adjacent to [Volcanic] tiles>",
+			"[+25]% Production when constructing [Settler] units [in all cities]",
+			"[-15]% [Production] [in capital]"
+		],
+		"cities": [
+			"Trowulan", "Surabaya", "Jakarta", "Palembang", "Yogyakarta", "Makassar", "Semarang", "Medan",
+			"Bandung", "Banjarmasin", "Ternate", "Tidore", "Denpasar", "Banda Aceh", "Padang", "Pontianak",
+			"Ambon", "Kupang", "Manado", "Malang", "Surakarta", "Cirebon", "Banten", "Jambi", "Bengkulu",
+			"Mataram", "Kediri", "Singhasari", "Gresik", "Tuban"
+		],
+		"spyNames": ["Sri", "Wijaya", "Dewi", "Hayam", "Tribhuwana", "Nala", "Ratna", "Arya", "Kirana", "Bima"]
+	},
+	{
+		"name": "Inuit",
+		"leaderName": "Ekeuhnick",
+		"adjective": ["Inuit"],
+		"startBias": ["Tundra", "Coast"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Ekeuhnick",
+		"startIntroPart1": "Greetings, Ekeuhnick, teacher of the people! Around a thousand years ago the ancestors of the Inuit left Alaska and, within a few generations, settled the whole Arctic coast as far as Greenland: the widest homeland of any people on Earth, in a land where nothing can be farmed. With the umiak and the kayak, the dog sled and the toggling harpoon, they hunted whale, seal and caribou and made a home of the ice itself.",
+		"startIntroPart2": "Wise one, others look at the north and see only an empty map. Your people know where the whales pass and how to read the snow. Will you show the world that a great nation can be raised where no one else would dare to live? Will your new empire shine through the ages of history?",
+		"declaringWar": "We do not seek fights. But a hunter who is threatened does not miss.",
+		"attacked": "You bring war to the ice? The cold has buried better armies than yours.",
+		"defeated": "The people will endure, as they always have. The ice remembers.",
+		"denounced": "Hard words. The wind says worse every night, and we are still here.",
+		"introduction": "I am Ekeuhnick. You have come a long way into the cold. Sit, eat, and tell me why.",
+		"neutralHello": "You are welcome at our fire.",
+		"hateHello": "The wind blows ill today.",
+		"tradeRequest": "A fair exchange keeps both camps fed through the winter. Look at this.",
+		"outerColor": [236, 244, 250],
+		"innerColor": [36, 86, 128],
+		"uniqueName": "People of the Ice",
+		"uniques": [
+			"[+1 Food, +1 Production] from [Snow] tiles [in all cities]",
+			"[+1 Food] from [Water resource] tiles [in all cities]",
+			"Enemy [Land] units must spend [1] extra movement points when inside your territory",
+			"[-25]% growth [in all cities] <with [0] to [0] neighboring [Snow] tiles> <with [0] to [0] neighboring [Tundra] tiles>"
+		],
+		"cities": [
+			"Iqaluit", "Nuuk", "Utqiagvik", "Kuujjuaq", "Inuvik", "Kangiqliniq", "Arviat", "Iqaluktuuttiaq",
+			"Mittimatalik", "Igloolik", "Tuktoyaktuk", "Pangnirtung", "Qikiqtagruk", "Sitnasuak", "Ilulissat",
+			"Sisimiut", "Qaanaaq", "Tasiilaq", "Kugluktuk", "Uqsuqtuuq", "Qamanittuaq", "Kinngait", "Qausuittuq",
+			"Ikpiarjuk", "Taloyoak", "Naujaat", "Kangiqtugaapik", "Salluit", "Puvirnituq", "Nain"
+		],
+		"spyNames": ["Nanuq", "Siku", "Aput", "Tulugaq", "Amaruq", "Ukaliq", "Sedna", "Tiriaq", "Qimmiq", "Nukka"]
 	}
 ]
