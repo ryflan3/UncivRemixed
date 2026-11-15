@@ -851,6 +851,19 @@
 		"gold": 3
 	},
 	{
+		"name": "Presidency Fort",
+		"replaces": "Castle",
+		"uniqueTo": "East India Trading Company",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+		"uniques": ["Destroyed when the city is captured"],
+		"gold": 2,
+		"happiness": 1
+	},
+	{
 		"name": "Parthenon",
 		"culture": 5,
 		"isWonder": true,

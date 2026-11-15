@@ -597,6 +597,36 @@
 		"replaces": "Caravel"
 	},
 	{
+		"name": "Sepoy",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 24,
+		"cost": 130,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"attackSound": "shot",
+		"uniqueTo": "East India Trading Company",
+		"replaces": "Musketman",
+		"uniques": ["[-50]% maintenance costs"]
+	},
+	{
+		"name": "East Indiaman",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 25,
+		"rangedStrength": 26,
+		"cost": 170,
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Electronics",
+		"upgradesTo": "Battleship",
+		"hurryCostModifier": 20,
+		"attackSound": "shipCannonVolley",
+		"uniqueTo": "East India Trading Company",
+		"replaces": "Frigate",
+		"uniques": ["[+1] Sight"]
+	},
+	{
 		"name": "Russian Winter Guard",
 		"unitType": "Gunpowder",
 		"replaces": "Great War Infantry",

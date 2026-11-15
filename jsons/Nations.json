@@ -2369,5 +2369,44 @@
 		"spyNames": [
 			"Vasco", "Ines", "Bartolomeu", "Leonor", "Diogo", "Beatriz", "Afonso", "Catarina", "Nuno", "Isabel"
 		]
+	},
+	{
+		"name": "East India Trading Company",
+		"leaderName": "Robert Clive",
+		"adjective": ["Company"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Economic",
+		"personality": "Robert Clive",
+		"startIntroPart1": "Greetings, Lord Clive! In the year 1600 a few London merchants were granted a charter to trade in the East. They wanted pepper, cotton and tea, and built warehouses at Surat, Madras, Bombay and Calcutta to get them. Then the Company hired soldiers to guard the warehouses, and the soldiers were put to other uses. After your victory at Plassey in 1757 a trading firm collected the taxes of Bengal; a century later it ruled most of India with an army twice the size of Britain's own, answering to a board of directors and their shareholders.",
+		"startIntroPart2": "Governor, the directors do not ask for glory. They ask for a dividend. Princes may keep their thrones so long as the revenue flows to your counting houses, but every throne you prop up is a people who did not choose you. Can you rule an empire from a ledger without it rising against you? Will your new empire shine through the ages of history?",
+		"declaringWar": "The directors have reviewed your position and found it unprofitable. I am here to liquidate it.",
+		"attacked": "You make war on a company? Very well. War is a line in our accounts, and we have budgeted for it.",
+		"defeated": "The charter is revoked, then. I wonder who will pay the shareholders now.",
+		"denounced": "Your opinion has been entered in the minutes. It will not affect the dividend.",
+		"introduction": "Robert Clive, of the Honourable Company. I am astonished at my own moderation, and you may be as well.",
+		"neutralHello": "Good day. Shall we talk terms?",
+		"hateHello": "State your business. My time is charged by the hour.",
+		"tradeRequest": "A contract, properly drawn up. I advise you to read the small print, though few do.",
+		"outerColor": [176, 196, 150],
+		"innerColor": [110, 20, 30],
+		"favoredReligion": "Protestantism",
+		"uniqueName": "Company Rule",
+		"uniques": [
+			"May not annex cities",
+			"[+25]% [Gold] [in puppeted cities]",
+			"Gain [100] [Gold] <upon conquering a city>",
+			"[+1 Gold] from [Plantation] tiles [in all cities]",
+			"[-2 Happiness] <for every [[Puppeted] Cities]>"
+		],
+		"cities": [
+			"Fort William", "Madras", "Bombay", "Surat", "Masulipatam", "Patna", "Dacca", "Murshidabad",
+			"Cuddalore", "Bencoolen", "Penang", "Arcot", "Plassey", "Buxar", "Trichinopoly", "Seringapatam",
+			"Lucknow", "Cawnpore", "Allahabad", "Benares", "Chittagong", "Hooghly", "Balasore", "Cossimbazar",
+			"Tellicherry", "Anjengo", "Vizagapatam", "Barrackpore", "Moulmein", "Saint Helena"
+		],
+		"spyNames": [
+			"Mr. Hastings", "Mr. Watson", "Mr. Orme", "Mr. Vansittart", "Mr. Holwell", "Mr. Sykes", "Mr. Drake",
+			"Mr. Scrafton", "Mr. Watts", "Mr. Verelst"
+		]
 	}
 ]

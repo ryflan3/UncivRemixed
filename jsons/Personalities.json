@@ -1648,5 +1648,38 @@
 			"Order": 5,
 			"National Defense": 4
 		}
+	},
+	{
+		"name": "Robert Clive",
+		"culture": 3,
+		"faith": 3,
+		"food": 5,
+		"gold": 10,
+		"happiness": 7,
+		"production": 6,
+		"science": 5,
+		"military": 8,
+		"aggressive": 8,
+		"declareWar": 7,
+		"commerce": 10,
+		"diplomacy": 4,
+		"loyal": 2,
+		"expansion": 6,
+		"denounceWillingness": 5,
+		"priorities": {
+			"Tradition": 4,
+			"Liberty": 5,
+			"Honor": 7,
+			"Commerce": 10,
+			"Patronage": 5,
+			"Piety": 2,
+			"Rationalism": 6,
+			"Exploration": 8,
+			"Aesthetics": 2,
+			"Freedom": 4,
+			"Autocracy": 8,
+			"Order": 7,
+			"National Defense": 5
+		}
 	}
 ]

@@ -1,5 +1,26 @@
 # Changelog
 
+## 2.4 — East India Trading Company
+
+**East India Trading Company** (Robert Clive) — *Company Rule*. A firm that conquers but never governs.
+
+- Captured cities always become puppets. The Company cannot annex them, and it cannot buy things in them or
+  choose what they build.
+- Puppet cities produce +25% Gold, and each captured city pays 100 Gold on the spot (scaled by game speed).
+- Plantations yield +1 Gold.
+- Drawback: -2 Happiness for every puppet city, on top of the normal unhappiness. Each conquest has to pay for
+  itself, and a long run of them will tip the empire into revolt unless Happiness is built up first.
+- The Company can still found its own cities with Settlers and runs those normally.
+- Sepoy (Musketman; costs 130 instead of 150 and half the Gold upkeep),
+  East Indiaman (Frigate; needs no Iron, +1 Sight, 26 ranged Strength instead of 28, costs 170 instead of 185),
+  Presidency Fort (Castle; +2 Gold, +1 Happiness).
+
+How it differs from Venice, the other civ that cannot annex: Venice cannot build Settlers but may buy items in its
+puppets. The Company can settle but has no say in its puppets at all, and pays Happiness for each one.
+
+The nation is called "East India Trading Company" because the mod already has a national wonder named
+"East India Company".
+
 ## 2.3 — Swiss Confederacy, Khmer and Portugal
 
 Three civilizations built around how they hold land rather than what they fight with.
@@ -825,6 +846,8 @@ Only changed lines are listed. "removed" lines were either broken in current Unc
 - **Reislaufer** (Swiss Confederacy) — new unit, replaces Pikeman
 - **Domrey** (Khmer) — new unit, replaces Trebuchet
 - **Nau** (Portugal) — new unit, replaces Caravel
+- **Sepoy** (East India Trading Company) — new unit, replaces Musketman
+- **East Indiaman** (East India Trading Company) — new unit, replaces Frigate
 
 The mod no longer ships its own copies of these base-game units, so they use the current Unciv definition again (the old copies were stale and mostly +2 Strength over the base game):
 
