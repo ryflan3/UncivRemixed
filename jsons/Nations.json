@@ -1331,7 +1331,7 @@
 	},
 	{
 		"name": "Gran Colombia",
-		"leaderName": "Simón Bolívar",
+		"leaderName": "Simon Bolivar",
 		"adjective": ["Gran Colombian"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",

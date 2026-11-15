@@ -1,5 +1,52 @@
 # Changelog
 
+## 2.1 — Economic victory, wonders, improvements, portraits and maps
+
+### Economic victory
+
+The old version was four gold purchases totalling 100,000 Gold, which a rich player could simply save up for and
+which the AI never attempted. It now works like this:
+
+- The four pillars are national wonders **built in the capital**, so the AI can go for them as well.
+- Each pillar costs **Bullion**, a new stockpile that cannot be traded, gifted or bought. Every Mint and Bank adds
+  1 Bullion per turn and every Stock Exchange adds 2. The four pillars cost 150, 250, 400 and 700 (1,500 in total,
+  scaled by game speed).
+- Each pillar needs a commercial building in every non-puppet city and a later technology than the one before:
+  World's Gold Mines (Markets, Economics), World's Diamond Mines (Banks, Industrialization),
+  World Stock Market (Stock Exchanges, Electricity), World Bank (the other three, Globalization).
+- To win you must also have **more Gold per turn than every other civilization** when the last pillar is done.
+- Every completed pillar is announced to all players.
+
+### Natural wonders
+
+- **Mount Vesuvius**: a lone volcano by the coast. Land next to it yields +1 Food.
+- **Giant's Causeway**: basalt columns on a cool coast. Culture and Faith.
+- **Ha Long Bay**: two tiles of limestone towers in warm coastal water. Food and Culture.
+- **Whitehaven Beach**: turns the flat land around it into Beach. Gold, Culture and Happiness.
+
+### Unique improvements
+
+| Civ | Improvement | Where | Yield |
+|---|---|---|---|
+| Norseman Vikings | Longphort | flat coastal land, including Beach | +1 Production, +1 Gold, +25% defence; +1 Gold at Compass |
+| Red Flag Pirates | Hidden Cove | Beach, also outside your borders | +2 Gold, +1 Production, +25% defence; +1 Gold at Navigation |
+| Tokugawa Shogunate | Onsen | next to a Mountain | +1 Culture, +1 Gold, +1 Culture per adjacent Volcano; +1 Gold at Archaeology |
+| Zulu | Isibaya | Grassland, Plains | +1 Food, +1 Production; +1 Food at Fertilizer |
+| Ancient Israel | Olive Grove | Plains, Grassland, Desert, Hill | +1 Food, +1 Gold; +1 Faith at Theology |
+| Scottish Clans | Distillery | next to fresh water | +2 Gold; +1 Culture at Economics |
+| Cherokee | Council Mound | Grassland, Plains | +1 Culture, +1 Faith; +1 Culture at Archaeology |
+| Knights Templar | Preceptory | Grassland, Plains, Hill, Desert | +1 Gold, +1 Faith; +1 Gold at Banking |
+
+### Art
+
+- Leader portraits for the 14 new civilizations.
+- Colour icons for the eight improvements and Bullion, and map tiles for the four wonders (HexaRealm and FantasyHex).
+- Gran Colombia's leader is spelled "Simon Bolivar" so his portrait loads on every platform.
+
+### Maps
+
+Four maps in the mod's `maps` folder, picked like any custom map. See the README.
+
 ## 2.0 — rebuilt for Unciv 5.0
 
 ### Compatibility
@@ -822,13 +869,64 @@ African Forest Elephant, Atlatlist, Ballista, Battering Ram, Camel Archer, Catap
   - gold 4 → 2; faith – → 2
   - removed: `[+3]% [Gold] from Trade Routes`
 - **World's Gold Mines**
+  - cost 99999999 → 300; requiredTech Geoengineering → Economics; gold – → 4
+  - removed: `Can be purchased with [Gold] [in capital]`
+  - removed: `Can be purchased for [30000] [Gold] [in capital]`
+  - removed: `Unbuildable`
+  - removed: `[+3 Gold] from [Gold Ore] tiles [in all cities]`
   - added: `Only available <when [Economic] Victory is enabled>`
+  - added: `Only available <if [Market] is constructed in all [non-[Puppeted]] cities>`
+  - added: `Can only be built <in [Capital] cities>`
+  - added: `Costs [150] [Bullion] <(modified by game speed)>`
+  - added: `Cost increases by [30] per owned city`
+  - added: `Cannot be hurried`
+  - added: `Triggers a global alert upon completion`
+  - added: `[+2 Gold] from [Gold Ore] tiles [in all cities]`
 - **World's Diamond Mines**
+  - cost 99999999 → 400; requiredTech Geoengineering → Industrialization; gold – → 4
+  - removed: `Can be purchased with [Gold] [in capital]`
+  - removed: `Can be purchased for [10000] [Gold] [in capital]`
+  - removed: `Unbuildable`
+  - removed: `[+3 Gold] from [Gems] tiles [in all cities]`
   - added: `Only available <when [Economic] Victory is enabled>`
+  - added: `Only available <if [Bank] is constructed in all [non-[Puppeted]] cities>`
+  - added: `Can only be built <in [Capital] cities>`
+  - added: `Costs [250] [Bullion] <(modified by game speed)>`
+  - added: `Cost increases by [30] per owned city`
+  - added: `Cannot be hurried`
+  - added: `Triggers a global alert upon completion`
+  - added: `[+2 Gold] from [Gems] tiles [in all cities]`
 - **World Stock Market**
+  - cost 99999999 → 500; requiredTech Geoengineering → Electricity
+  - removed: `Can be purchased with [Gold] [in capital]`
+  - removed: `Can be purchased for [10000] [Gold] [in capital]`
+  - removed: `Unbuildable`
+  - removed: `[+50]% [Gold] from every [Stock Exchange]`
   - added: `Only available <when [Economic] Victory is enabled>`
+  - added: `Only available <if [Stock Exchange] is constructed in all [non-[Puppeted]] cities>`
+  - added: `Can only be built <in [Capital] cities>`
+  - added: `Costs [400] [Bullion] <(modified by game speed)>`
+  - added: `Cost increases by [30] per owned city`
+  - added: `Cannot be hurried`
+  - added: `Triggers a global alert upon completion`
+  - added: `[+10]% [Gold] [in all cities]`
 - **World Bank**
+  - cost 99999999 → 800; requiredTech Geoengineering → Globalization
+  - removed: `Can be purchased with [Gold] [in capital]`
+  - removed: `Can be purchased for [50000] [Gold] [in capital]`
+  - removed: `Unbuildable`
+  - removed: `Production to [Gold] conversion in cities changed by [+75]%`
   - added: `Only available <when [Economic] Victory is enabled>`
+  - added: `Only available <if [World's Gold Mines] is constructed>`
+  - added: `Only available <if [World's Diamond Mines] is constructed>`
+  - added: `Only available <if [World Stock Market] is constructed>`
+  - added: `Can only be built <in [Capital] cities>`
+  - added: `Costs [700] [Bullion] <(modified by game speed)>`
+  - added: `Cost increases by [30] per owned city`
+  - added: `Cannot be hurried`
+  - added: `Triggers a global alert upon completion`
+  - added: `[+15]% [Gold] [in all cities]`
+  - added: `Production to [Gold] conversion in cities changed by [+25]%`
 - **Rialto Port** (Venice)
   - gold – → 2
   - removed: `[+15]% [Gold] from Trade Routes`

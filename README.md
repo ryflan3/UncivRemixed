@@ -1,10 +1,10 @@
 # UncivRemixed
 
 An extension mod for [Unciv](https://github.com/yairm210/Unciv) on the **Civ V - Gods & Kings** ruleset.
-Rebuilt for Unciv 5.0 (version 2.0 of the mod, see [CHANGELOG.md](CHANGELOG.md)).
+Rebuilt for Unciv 5.0 (see [CHANGELOG.md](CHANGELOG.md)).
 
 Every civilization gets a wider ability with several upsides and one real drawback, so each one plays differently.
-Fourteen new civilizations join the base roster, each with three or four unique units, buildings or improvements.
+Fourteen new civilizations join the base roster, each with three to five unique units, buildings or improvements.
 
 ## What is in it
 
@@ -20,6 +20,7 @@ Fourteen new civilizations join the base roster, each with three or four unique 
 
 - **Beach**: a few flat coastal tiles turn into Beach. Build Shipyards, Resorts and Trading posts on them.
 - **Volcano**: a rare feature on Mountains. Land next to one yields +1 Food.
+- Four natural wonders: Mount Vesuvius, Giant's Causeway, Ha Long Bay and Whitehaven Beach.
 - Five extra luxuries (Tea, Caviar, Cocoa, Coffee, Tobacco) and new improvements (Arctic Research Station,
   Rice Paddy, Dry Dock, Canal).
 - Cities work tiles up to 4 away.
@@ -28,9 +29,24 @@ Fourteen new civilizations join the base roster, each with three or four unique 
 
 - Three extra policy trees (Exploration, Aesthetics, National Defense) and extra beliefs and religions.
 - 48 city-states each have their own friend and ally bonus instead of sharing five types.
-- Economic and Religious victories; Cultural victory needs 6 completed policy trees.
+- Religious victory; Cultural victory needs 6 completed policy trees.
+- **Economic victory**: build the four pillars of the world economy in your capital and out-earn every rival.
+  The pillars cost Bullion, which only Mints, Banks and Stock Exchanges produce. Details in the changelog.
 - A tax switch in the capital: buy High or Low Taxes with Culture.
 - Two technologies (Geoengineering, Urbanization) and five wonders.
+
+## Maps
+
+Five ready-made maps come with the mod. In the new game screen choose *Custom* as the map type and pick one;
+it switches on this mod and the Gods & Kings ruleset for you. All except North America have 8 start positions.
+
+| Map | Size | What it is |
+|---|---|---|
+| Ring of Fire | 84 × 54 | Six lands in a ring around an inner sea, strung along a chain of volcanoes |
+| Skull Island | 72 × 58 | An island shaped like a skull over crossed bones: lagoon eyes, a volcano nose, ruins everywhere. Tropical |
+| Four Kingdoms | 76 × 61 | Four matching corner kingdoms, each joined by a causeway to a volcano-ringed prize island. Built to be fair |
+| Corsair Shoals | 82 × 52 | A tropical sea of small islands, atolls and long beaches. Needs a navy |
+| North America XXL | 90 × 75 | The original map from version 1 |
 
 ## Installing
 
@@ -50,8 +66,9 @@ Both rates are single numbers, so they are easy to change if you want more or le
 
 ## Art
 
-Icons for the 14 new civs and 26 new unique units are original art made for this mod. The vector sources are in
-`ArtSource/`; the game reads the 100 px PNGs in `Images/`, packed into `game.png` / `game.atlas`.
+Original art made for this mod: emblems and leader portraits for the 14 new civs, icons for 26 unique units and
+8 unique improvements, and map tiles for the Volcano and the four natural wonders. The vector sources are in
+`ArtSource/`; the game reads the PNGs in `Images/`, packed into `game.png` / `game.atlas`.
 Unciv on desktop repacks the atlas by itself whenever a file in `Images/` changes.
 
 ## Credits

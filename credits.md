@@ -2,12 +2,17 @@
 
 ## Made for this mod
 
-The icons for the 14 new civilizations, the 26 new unique units, Thermae, Geoengineering and the Exploration,
-Aesthetics and National Defense policy trees are original art drawn for UncivRemixed. Vector sources: `ArtSource/`.
+Original art drawn for UncivRemixed, with vector sources in `ArtSource/`:
 
-The Volcano tiles and the FantasyHex Beach tile are recoloured and repainted from the Mountain and Desert tiles of
-Unciv's HexaRealm and FantasyHex tilesets. The HexaRealm Beach, Shipyard, Resort and Sand Citadel tiles come from
-hachchch's coastal mod.
+- emblems and leader portraits for the 14 new civilizations
+- icons for the 26 new unique units and the 8 unique improvements
+- Thermae, Geoengineering, Bullion and the Exploration, Aesthetics and National Defense policy trees
+
+The Volcano tile, the four natural wonder tiles and the FantasyHex Beach tile are repainted from the Mountain,
+Plains, Coast and Desert tiles of Unciv's HexaRealm and FantasyHex tilesets. The HexaRealm Beach, Shipyard,
+Resort and Sand Citadel tiles come from hachchch's coastal mod.
+
+The maps Ring of Fire, Skull Island, Four Kingdoms and Corsair Shoals were built for this mod.
 
 ## Third-party icons
 
