@@ -4,15 +4,15 @@ An extension mod for [Unciv](https://github.com/yairm210/Unciv) on the **Civ V -
 Rebuilt for Unciv 5.0 (see [CHANGELOG.md](CHANGELOG.md)).
 
 Every civilization gets a wider ability with several upsides and one real drawback, so each one plays differently.
-Fourteen new civilizations join the base roster, each with three to five unique units, buildings or improvements.
+Sixteen new civilizations join the base roster, each with three to five unique units, buildings or improvements.
 
 ## What is in it
 
 **Civilizations**
 
-- 14 new civs: Tokugawa Shogunate, Sparta, House of Borgia, Red Flag Pirate Confederation, Norseman Vikings,
+- 16 new civs: Tokugawa Shogunate, Sparta, House of Borgia, Red Flag Pirate Confederation, Norseman Vikings,
   Ancient Israel, Scottish Clans, The Order of Assassins, Zulu, Gran Colombia, Cherokee, Knights Templar,
-  Safavid Dynasty and Venice. Japan, Denmark and Sweden are replaced by Tokugawa and the Vikings.
+  Safavid Dynasty, Venice, Indonesia and the Inuit. Japan, Denmark and Sweden are replaced by Tokugawa and the Vikings.
 - All 31 remaining base-game civs have an extended ability and many gain an extra unique unit or building.
 - A custom AI personality for every leader.
 
@@ -23,17 +23,19 @@ Fourteen new civilizations join the base roster, each with three to five unique 
 - Four natural wonders: Mount Vesuvius, Giant's Causeway, Ha Long Bay and Whitehaven Beach.
 - Five extra luxuries (Tea, Caviar, Cocoa, Coffee, Tobacco) and new improvements (Arctic Research Station,
   Rice Paddy, Dry Dock, Canal).
-- Cities work tiles up to 4 away.
+- Cities work tiles up to 4 away, and need 4 tiles between them (3 across water) so they do not crowd each other.
 
 **Systems**
 
 - Three extra policy trees (Exploration, Aesthetics, National Defense) and extra beliefs and religions.
 - 48 city-states each have their own friend and ally bonus instead of sharing five types.
-- Religious victory; Cultural victory needs 6 completed policy trees.
+- **Religious victory**: become the world religion, enhance it, then buy the Cathedral of World Unity with Faith
+  in your holy city. Cultural victory needs 6 completed policy trees.
 - **Economic victory**: build the four pillars of the world economy in your capital and out-earn every rival.
   The pillars cost Bullion, which only Mints, Banks and Stock Exchanges produce. Details in the changelog.
 - A tax switch in the capital: buy High or Low Taxes with Culture.
-- Two technologies (Geoengineering, Urbanization) and five wonders.
+- Three technologies (Geoengineering, Urbanization, Geothermal Energy) with a Reservoir, Apartment Block and
+  Geothermal Plant, and five wonders. The Geothermal Plant needs a Volcano within 3 tiles of the city.
 
 ## Maps
 
@@ -66,8 +68,8 @@ Both rates are single numbers, so they are easy to change if you want more or le
 
 ## Art
 
-Original art made for this mod: emblems and leader portraits for the 14 new civs, icons for 26 unique units and
-8 unique improvements, and map tiles for the Volcano and the four natural wonders. The vector sources are in
+Original art made for this mod: emblems and leader portraits for the 16 new civs, icons for 30 unique units and
+10 unique improvements, and map tiles for the Volcano and the four natural wonders. The vector sources are in
 `ArtSource/`; the game reads the PNGs in `Images/`, packed into `game.png` / `game.atlas`.
 Unciv on desktop repacks the atlas by itself whenever a file in `Images/` changes.
 

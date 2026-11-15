@@ -1,5 +1,53 @@
 # Changelog
 
+## 2.2 — Indonesia, the Inuit, technology and religion
+
+### New civilizations
+
+**Indonesia** (Gajah Mada) — *Palapa Oath*. Built for many small cities spread across islands.
+
+- Cities on other landmasses than the capital get +2 Gold, +1 Culture and +1 Happiness.
+- Land tiles next to a Volcano or Mount Vesuvius yield +1 Faith.
+- +25% Production towards Settlers. Drawback: -15% Production in the capital.
+- Kris Swordsman (Swordsman; needs no Iron, +15% when attacking, heals 10 on a kill), Jong (Caravel; 22 Strength,
+  heals outside friendly territory), Candi (Garden; +2 Faith, needs no fresh water),
+  Kampung (improvement on flat coastal land including Beach; +1 Food, +1 Food at Civil Service, +1 Gold at Compass).
+
+**Inuit** (Ekeuhnick) — *People of the Ice*. Lives where nobody else will.
+
+- Snow tiles yield +1 Food and +1 Production; sea resources yield +1 Food.
+- Enemy land units pay 1 extra movement point inside Inuit territory.
+- Drawback: -25% growth in cities with no Snow or Tundra next to the city.
+- Dog Sled (Scout; 3 movement, double movement in Snow and Tundra), Umiak (Trireme; can enter ice),
+  Qaggiq (Monument; +1 Happiness), Inuksuk (improvement on Snow and Tundra; +1 Culture, +1 Faith).
+
+### Technology
+
+- Geoengineering now also unlocks the **Reservoir** (river cities: +2 Food, +10% growth).
+- Urbanization now also unlocks the **Apartment Block** (+15% growth, -10% unhappiness from population in the city)
+  and the Resort, which used to come with Refrigeration.
+- New technology **Geothermal Energy** (Atomic era, after Urbanization) unlocks the **Geothermal Plant**:
+  +4 Production, +2 Science, +15% Production, for cities with a Volcano or Mount Vesuvius within 3 tiles.
+
+### Religion
+
+- Five new follower beliefs: Fire Temples (Faith and Culture from land next to volcanoes), Sea Shrines (Faith and
+  Gold from Beach), Blessing of the Fleet (Production and Faith in coastal cities), Harvest Festivals (Culture from
+  Plantations), Mountain Hermitages (Faith for cities next to Mountains).
+- New founder belief: Pilgrim Harbor (+3 Gold, +2 Culture in a coastal holy city).
+- Atheism is no longer a pantheon. It cut your Faith before you had a religion to found. It is now the founder
+  belief **Scholastic Tradition** (+1 Science per Shrine, +2 per Temple) with no penalty.
+- **Religious victory**: the Cathedral of World Unity can no longer be built with Production. It costs 2,500 Faith
+  (scaled by game speed), is bought in your holy city, and needs an enhanced religion.
+
+### Other changes
+
+- Cities need 4 tiles between them on the same landmass (was 3) and 3 across water (was 2), to go with the
+  4-tile work range.
+- **The Order of Assassins**: units earn Gold equal to the Strength of each enemy unit they kill, so the civ has an
+  identity when espionage is switched off. Their Science penalty now applies only when espionage is enabled.
+- The Volcano feature and Mount Vesuvius share a "Volcanic" tag, so one rule covers both.
+
 ## 2.1 — Economic victory, wonders, improvements, portraits and maps
 
 ### Economic victory
@@ -228,7 +276,8 @@ Only changed lines are listed. "removed" lines were either broken in current Unc
 - removed: `[-99]% enemy spy effectiveness [in capital]`
 - removed: `[-15]% [Science] [in all cities]`
 - added: `[-33]% enemy spy effectiveness [in all cities]`
-- added: `[-10]% [Science] [in all cities]`
+- added: `Earn [100]% of killed [Military] unit's [Strength] as [Gold]`
+- added: `[-10]% [Science] [in all cities] <when espionage is enabled>`
 
 ### Zulu — Warrior Culture
 - removed: `[+15]% Strength <when fighting units from a Civilization with more Cities than you>`
@@ -720,6 +769,10 @@ Only changed lines are listed. "removed" lines were either broken in current Unc
   - added: `[-33]% Strength <vs cities> <when attacking>`
   - added: `Ignores Zone of Control`
 - **Norwegian Ski Infantry** (Norseman Vikings) — newly assigned: the base game unit, re-homed from a removed civ
+- **Kris Swordsman** (Indonesia) — newly assigned: the base game unit, re-homed from a removed civ
+- **Jong** (Indonesia) — newly assigned: the base game unit, re-homed from a removed civ
+- **Dog Sled** (Inuit) — newly assigned: the base game unit, re-homed from a removed civ
+- **Umiak** (Inuit) — newly assigned: the base game unit, re-homed from a removed civ
 
 The mod no longer ships its own copies of these base-game units, so they use the current Unciv definition again (the old copies were stale and mostly +2 Strength over the base game):
 
@@ -938,9 +991,15 @@ African Forest Elephant, Atlatlist, Ballista, Battering Ram, Camel Archer, Catap
   - gold 1 → –; culture 1 → –
 - **Cathedral of World Unity**
   - removed: `Hidden when [Religious] Victory is disabled`
+  - removed: `Cannot be hurried`
   - removed: `Hidden when religion is disabled`
   - added: `Only available <when [Religious] Victory is enabled>`
   - added: `Only available <when religion is enabled>`
+  - added: `Only available <after enhancing a religion>`
+  - added: `Unbuildable`
+  - added: `Can be purchased for [2500] [Faith] [in holy cities]`
+  - added: `Unsellable`
+  - added: `Triggers a global alert upon completion`
 - **Cothon** (Carthage)
   - removed: `[+2 Production] from [Water resource] tiles [in this city]`
   - added: `[+1 Production] from [Water resource] tiles [in this city]`
